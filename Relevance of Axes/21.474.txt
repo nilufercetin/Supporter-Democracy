@@ -1,0 +1,15 @@
+1. Liberal Economy: The text is mainly about economic transparency between NGOs and Parliamentarians. NGOs being allowed to provide money voluntarily falls under the liberal economy where non-state actors have some autonomy. Relevance Score: 0.75
+
+2. Law and Order: The aspect of making financial flows transparent and questionning about the freedom of decision making of parliaments can be linked to law and order. Relevance Score:  0.7
+
+3. Open Foreign Policy: As NGOs may be both national and international, their engagement with parliamentarians could relate to the openness of foreign policy. Relevance Score: 0.55
+
+4. Restrictive Financial Policy: Though loosely related, the perspective of government budgeting and financial regulation may be inferred due to the referendum stressing on the financial transparency. Relevance Score: 0.5
+
+5. Liberal Society: The questioning of decision-making freedom can be seen as a matter of broad societal freedoms, though it may not necessarily reflect on lifestyle or religious freedom. Relevance Score: 0.4
+
+6. Expanded Welfare State: Even if the text doesn't directly talk about welfare, the rule may affect parliamentarians' attitudes toward social benefits. Relevance Score: 0.35
+
+7. Extended Environmental Protection: The referendum text doesn't concern environmental matters, thus is least relevant. Relevance Score: 0.1
+
+8. Restrictive Immigration Policy: The referendum doesn't touch the subject of immigration or foreign integration, thus it is least relevant. Relevance Score: 0.1

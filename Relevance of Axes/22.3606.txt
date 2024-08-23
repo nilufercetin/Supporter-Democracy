@@ -1,0 +1,15 @@
+1. Liberal Economy – Score 0.9: This axis is quite relevant since the law changes affect sector-specific subsidies and indicate a move towards the autonomy of state institutions in essential services, like food supply.
+   
+2. Restrictive Financial Policy – Score 0.7: The new law might lead to budget changes and adjustments to manage or counteract possible increases in food import and the associated costs.
+
+3. Extended Environmental Protection – Score 0.7: The proposed regulations aim to reduce environmental impacts of farming practices, particularly in terms of nutrient runoff and loss. This may push towards more sustainable farming practices, thus promoting extended environmental protection.
+
+4. Expanded Welfare State – Score 0.5: While there's no direct mention of state social benefits or social programs, reducing livestock numbers may have indirect impacts on welfare if it affects industry jobs or food prices.
+
+5. Open Foreign Policy – Score 0.4: Increased food imports could imply a need for renegotiation of trade agreements and international relations but this connection is indirect.
+
+6. Restrictive Immigration Policy – Score 0.2: While the changes may affect agricultural labor demands, there's little direct connection to immigration policy in the referendum.
+
+7. Law and Order– Score 0.1: The law changes have limited implications for public safety measures, criminal law effectiveness, or self-defense rights.
+
+8. Liberal Society – Score 0.1: There doesn't seem to be any connection between the impacts of reversing the decision and freedom of expression, privacy protection, or other social issues included in the Liberal Society axis.

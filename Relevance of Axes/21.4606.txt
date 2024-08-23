@@ -1,0 +1,8 @@
+1. Extended Environmental Protection: This axis directly relates to the achievement of net zero emissions and the development of clean energy sources, such as the mentioned transformation and storage of solar energy. The incentive system described in the referendum can be seen as a state-supported environmental measure. Relevance Score: 1
+2. Liberal Economy: The implementation of incentives can also be viewed as a regulatory measure aimed at promoting competition and innovation in the energy sector. Relevance Score: 0.6
+3. Restrictive Financial Policy: Depending on how the incentives are financed, this could have an impact on government spending and therefore might be relevant from a financial policy perspective. Relevance Score: 0.4
+4. Open Foreign Policy: If the adoption of this policy leads to a greater international presence in global climate initiatives or affects trade in energy sectors, it could be relevant under this category. Relevance Score: 0.2
+5. Expanded Welfare State: If this initiative is seen as contributing to the common good and as a government social program, it may be relevant under this axis. Relevance Score: 0.2
+6. Restrictive Immigration Policy: This axis doesn't seem to be directly relevant to the text of the referendum. Relevance Score: 0
+7. Law and Order: This axis doesn't seem to be directly relevant to the text of the referendum. Relevance Score: 0
+8. Liberal Society: This axis doesn't seem to be directly relevant to the text of the referendum. Relevance Score: 0

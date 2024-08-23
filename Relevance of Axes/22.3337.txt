@@ -1,0 +1,15 @@
+1. Restrictive Immigration Policy: This axis is the most relevant as the referendum is explicitly about changing the policy for naturalization, foreign integration and immigration restrictions. Relevance Score: 1
+
+2. Liberal Society: This axis is quite relevant as it discusses the individual's freedom and societal regulations, which pertain to the proposed change in citizenship process. Relevance Score: 0.8
+
+3. Expanded Welfare State: This axis is somewhat relevant as it encapsulates attitudes towards state social benefits which can include naturalization rules. Relevance Score: 0.6
+
+4. Open Foreign Policy: This axis is slightly relevant, since changes to immigration policy can impact foreign relations with other countries. Relevance Score: 0.4
+
+5. Liberal Economy: This can have a low relevance due to the indirect impact changing immigration policy could have on the national workforce and economy. Relevance Score: 0.2
+
+6. Restrictive Financial Policy: This has least relevance as the referendum doesn't explicitly discuss government spending proposals or financial adjustments. Relevance Score: 0.1
+
+7. Law and Order: The score reflects attitudes towards public safety measures, which does not seem to be directly relevant to this referendum. Relevance Score: 0.1
+
+8. Extended Environmental Protection: This axis seems to be not relevant for this particular referendum as the text does not mention anything about environment or related measures. Relevance Score: 0

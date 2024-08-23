@@ -1,0 +1,15 @@
+1. Restrictive Financial Policy: As the referendum is regarding the waiving of the share of tax on mineral oils on fuels, its relevance is very high. It directly involves government spending decisions and tax adjustments. The relevance score is 1.
+
+2. Liberal Economy: The subject is slightly related as it involves economic aspects, including market regulations potentially affecting the fuel sector indirectly. However, the direct impact may not be as pronounced as some other axes. The relevance score is 0.6.
+
+3. Extended Environmental Protection: Although the referendum itself is not about environmental protection, changes in fuel prices can indirectly impact environmental issues, such as by influencing the consumption of fossil fuels. The relevance score is 0.5.
+
+4. Expanded Welfare State: Lower fuel prices due to tax waivers might affect the general prosperity and might in turn impact state social benefits or programs, albeit indirectly. It can also resonate with perspectives on promoting social responsibility. The relevance score is 0.3.
+
+5. Open Foreign Policy: While not directly related, decisions on taxes and fuel prices might influence Switzerland's international economic relations, such as foreign trade. However, the direct influence on this axis is minimal and somewhat speculative. The relevance score is 0.2.
+
+6. Liberal Society: Although very indirectly, decisions about taxation and fuel pricing could potentially touch on issues around lifestyle freedom, specifically where mobility and private transportation are concerned. The relevance score is 0.1.
+
+7. Restrictive Immigration Policy: The subject of the referendum is not directly related to immigration policy or foreign integration. Its relevance is very minimal or negligible. The relevance score is 0.05.
+
+8. Law and Order: There's no direct relevance of law order to the referendum. It doesn't involve public safety measures or changes to criminal law. The relevance score is 0.05. 

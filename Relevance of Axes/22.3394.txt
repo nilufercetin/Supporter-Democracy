@@ -1,0 +1,17 @@
+Based on the text of the referendum, here's the relevance of each axis from most to least:
+
+1. Liberal Economy: Relevance score 0.9 out of 1. The most important axis as it largely addresses economic structure, and transparency in multinational companies can significantly impact privatization, competition, and sector-specific subsidies.
+
+2. Restrictive Financial Policy: Relevance score 0.8 out of 1. The referendum discusses aspects of companies' financial flows and tax rulings, which directly link to government financial policies.
+
+3. Law and Order: Relevance score 0.7 out of 1. This is important as transparency measures would need to be upheld by regulations and laws.
+
+4. Liberal Society: Relevance score 0.6 out of 1. The topic of transparency, privacy, and data is addressed here which makes it relevant.
+
+5. Open Foreign Policy: Relevance score 0.4 out of 1. This is somewhat relevant since multinationals typically involve foreign elements, but the main focus here is not Switzerland's relations with foreign entities.
+
+6. Expanded Welfare State: Relevance score 0.3 out of 1. There's a loose connection as transparent multinational activities can influence the state's social services indirectly through taxes.
+
+7. Restrictive Immigration Policy: Relevance score 0.2 out of 1. The connection is tenuous since multinational operations may impact immigration policy indirectly through job opportunities, but it's not a direct focus of the referendum.
+
+8. Extended Environmental Protection: Relevance score 0.1 out of 1. This axis has the least relevance because the referendum doesn't address environmental or conservation policies directly.

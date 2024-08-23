@@ -1,0 +1,8 @@
+1. Law and Order (1.0) - This axis takes the top relevance as the initiative involves law enforcement and protection of victims of serious offences and crimes whether committed abroad or locally.
+2. Expanded Welfare State (0.6) - This axis is also relevant as it addresses the provision of state benefits and support for its citizens, including crime victims. In this case, it pertains to compensations.
+3. Restrictive Financial Policy (0.4) - This axis is relevant to a certain extent as the mention of costs to cantons indicates a discussion about government spending and budget adjustments.
+4. Liberal Society (0.3) - This score reflects attitudes towards personal freedom and privacy, which might be slightly relevant in discussing the rights of crime victims.
+5. Restrictive Immigration Policy (0.1) - This has some slight relevance as the problem involves the rights of citizens victimized abroad. However, it doesn't directly involve immigration policies.
+6. Open Foreign Policy (0.05) - The issue involves citizens victimized abroad, but doesn't directly address foreign policy.
+7. Liberal Economy (0.0) - There seems to be no direct relevance of the liberal economy axis to the provided referendum.
+8. Extended Environmental Protection (0.0) - This axis has no relevance to the provided referendum as there's no environmental concern addressed.

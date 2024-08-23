@@ -1,0 +1,15 @@
+1. Law and Order: This axis is the most relevant, as the referendum is about creating an entity for security, defense, and technology, which directly relates to public safety measures and government interventions. Here, criminal law effectiveness could be related too as it is about national security. Relevance score: 0.9
+
+2. Restrictive Financial Policy: Since this referendum involves a specific allocation of the budget from the DDPS for this entity, this axis is a key focus. The attitudes towards government spending proposals can be tested here. Relevance score: 0.8
+
+3. Open Foreign Policy: The aim of limiting Switzerland's dependence on certain external partners directly aligns with this axis's focus on engagement with international organizations and bilateral agreements. Relevance score: 0.7
+
+4. Liberal Economy: The creation of a new entity could imply new measures in terms of privatization, promoting competition and regulating sectors. This entity will carry out innovation projects which is a part of economic activities. Relevance score: 0.6
+
+5. Liberal Society: The mention of retaining talents in Switzerland indicates a discussion on personal lifestyle freedom and the handling of taboo topics, potentially making this axis somewhat relevant. Relevance score: 0.3
+
+6. Expanded Welfare State: While the referendum does not directly address social benefits or government social programs, the creation of this entity could potentially impact employment and thereby indirectly affects the welfare state. Relevance score: 0.2
+
+7. Extended Environmental Protection: This axis seems to be least relevant to the current referendum; there is no clear link between the entity being proposed and environmental measures. Still, some minor implications may arise due to technological innovations. Relevance score: 0.1
+
+8. Restrictive Immigration Policy: This axis seems to be least relevant as the referendum does not mention anything related to immigration, naturalization, or foreign political rights. Relevance score: 0.0

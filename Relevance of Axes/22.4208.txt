@@ -1,0 +1,15 @@
+1. Expanded Welfare State: 1.0. This makes employee rights and fairness in the workplace important factors, and thus it's highly relevant to the proposed change in the Equality Act.
+
+2. Liberal Society: 0.8. This involves rights and freedom of the individual, which could include the right to equal pay irrespective of the size of the company.
+
+3. Liberal Economy: 0.7. This could be relevant as it touches on the matter of autonomy and regulation for businesses.
+
+4. Restrictive Financial Policy: 0.5. The proposed amendment might influence company finances and thus be substantial for companies with tight budgets. 
+
+5. Law and Order: 0.4. This could involve changes in legislation to ensure equal pay, but it's more indirect than the top 4.
+
+6. Open Foreign Policy: 0.2. This might bear some relevance if implemented measures affect foreign companies operating in Switzerland, but overall it's less relevant. 
+
+7. Extended Environmental Protection: 0.05. While there might be some indirect impacts on environment if the law changes the structure of the workforce, this connection is rather loose.
+
+8. Restrictive Immigration Policy: 0.05. Similar to the previous one, there might be minor relevance if the law affects immigrant workers, but generally, it's less relevant.

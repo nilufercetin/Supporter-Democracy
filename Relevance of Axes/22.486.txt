@@ -1,0 +1,19 @@
+For the referendum proposing an amendment to the Code of Obligations (CO) in Switzerland, which requires the disclosure of the previous tenant's rent to the new tenant via an official form to increase transparency and protect against abusive rent practices, here's how each axis ranks in relevance, along with their relevance scores out of 1:
+
+Liberal Economy: This axis is most relevant as the referendum focuses on market regulation—specifically, the regulation of rental prices, which directly impacts competition and transparency in the housing market.
+Relevance Score: 0.9
+Law and Order: The implementation and enforcement of legal requirements for transparency in rent prices make this axis highly relevant. It pertains to how legal mechanisms are used to regulate interactions between landlords and tenants.
+Relevance Score: 0.8
+Liberal Society: This axis, emphasizing personal rights and protections, is relevant in terms of defending individual tenants from potentially exploitative practices, thus impacting their personal economic freedoms and living conditions.
+Relevance Score: 0.7
+Expanded Welfare State: Indirectly, this referendum touches on social welfare, as housing affordability is a crucial aspect of social security and public welfare, impacting the general well-being of citizens.
+Relevance Score: 0.6
+Restrictive Financial Policy: There is some relevance here as financial policies and budgetary considerations could be impacted by changes in how rents are managed and reported, affecting overall economic stability.
+Relevance Score: 0.5
+Open Foreign Policy: The international perception of Switzerland's housing market and its regulatory environment could be influenced slightly by this referendum, although this connection is more tangential.
+Relevance Score: 0.2
+Extended Environmental Protection: This axis has minimal direct relevance unless considerations of housing also tie into environmental regulations, such as energy efficiency in rental properties.
+Relevance Score: 0.1
+Restrictive Immigration Policy: This axis is the least relevant, as it primarily focuses on policies regarding immigration and naturalization, which are not directly addressed by a referendum on rental transparency.
+Relevance Score: 0.05
+These scores reflect the directness of each axis's connection to the issues raised in the referendum regarding rental transparency and protections against abusive pricing in the housing market.

@@ -1,0 +1,25 @@
+For the referendum addressing the measures and monitoring to ensure that the cantons uniformly apply Article 14 of the LIFD, which relates to taxation based on expenditure, here is the relevance of each axis ordered from most relevant to least relevant along with relevance scores out of 1:
+
+Restrictive Financial Policy: This axis is the most relevant as the referendum focuses on tax regulation enforcement and budgetary controls, which are directly related to financial policies within governmental frameworks.
+Relevance Score: 0.9
+Law and Order: The enforcement of tax laws and the consistency of their application across cantons align closely with law and order concerns, particularly in the realm of legal compliance and government intervention.
+Relevance Score: 0.8
+Liberal Economy: This axis concerns how regulation impacts economic behavior. Uniform application of tax laws can affect competition and economic fairness, influencing the autonomy and operations within the private sector.
+Relevance Score: 0.6
+Liberal Society: This axis, emphasizing the protection of rights and freedoms, has relevance in terms of ensuring fairness and equal treatment under the law, which can include economic laws like taxation.
+Relevance Score: 0.4
+Expanded Welfare State: There's an indirect relevance here, as the proper application of tax laws can impact government revenues and thereby the availability of social benefits.
+Relevance Score: 0.3
+Open Foreign Policy: While primarily focusing on international engagement, the uniform application of tax laws can also influence foreign investor confidence and international economic relationships, though its relevance is more tangential.
+Relevance Score: 0.2
+Extended Environmental Protection: There's minimal direct connection, unless the tax laws specifically pertain to environmental expenditures or incentives, which isn't specified in the current context.
+Relevance Score: 0.1
+Restrictive Immigration Policy: This axis is the least relevant to the referendum's focus as it primarily deals with immigration and naturalization policies, which are unrelated to the specific issue of tax law enforcement.
+Relevance Score: 0.05
+These relevance scores reflect the degree to which each axis connects to the main issues of the referendum regarding tax enforcement and regulatory compliance across different cantonal administrations.
+
+
+
+
+
+

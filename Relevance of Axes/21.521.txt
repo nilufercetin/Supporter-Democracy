@@ -1,0 +1,11 @@
+1. Law and Order: This axis is the most relevant as the referendum directly impacts public safety measures and government interventions in the operations of police officers. It pertains to how these officers perform their duties in maintaining order and protecting the public. The relevance score is 1.
+
+2. Liberal Society: The second most relevant is Liberal Society. This referendum could potentially impact personal lifestyle freedom and privacy protection. If police officers are allowed greater latitude in their use of self-defense without having to go through as many procedures, this could be seen as an infringement on privacy and personal freedoms. Relevance score: 0.7.
+
+3. Restrictive Financial Policy: This policy is loosely connected since changes to filing and defense procedures could potentially require changes to budget allocations for police training and related legal procedures. However, it isn't direct, so the relevance score is 0.5.
+
+4. Expanded Welfare State: The relevance comes from the possible impact on social programs related to law enforcement. However, the connection isn't as direct, making it less relevant than other axes. Relevance score: 0.3.
+
+5. Restrictive Immigration Policy: There is no direct relevance in this case. However, laws and practices around law enforcement can indirectly affect perceptions around immigration, especially if the changes are seen as likely to disproportionately impact certain communities. Relevance score: 0.2.
+
+6. Open Foreign Policy, Liberal Economy, and Extended Environmental Protection have no apparent direct relevance to this referendum as it mainly pertains to local law enforcement procedures and does not directly affect international relations, economic policy, or environmental protection measures. Hence, these components come last with relevance scores of 0 for each.

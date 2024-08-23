@@ -1,0 +1,15 @@
+1. Expanded Welfare State: 1.0 - The referendum directly discusses changes to the state social benefits, specifically retirement pensions.
+
+2. Restrictive Financial Policy: 0.8 - The referendum indicates that the measure would cause costs to rapidly increase, relevant to government spending and budget changes. 
+
+3. Liberal Economy: 0.5 - The proposal might impact the economy, considering there may be a deficit after 2030. However, it's less clear how this would interact with views on privatization, competition, and sector-specific subsidies.
+
+4. Open Foreign Policy: 0.2 - While the perspectives on international engagements are not directly targeted in the initiative, they could potentially be indirectly impacted in terms of the overall economic impact and bilateral agreements. 
+
+5. Law and Order: 0.0 - The initiative doesn't touch on public safety measures or criminal law effectiveness at all.
+
+6. Restrictive Immigration Policy: 0.0 - The initiative doesn't discuss foreign integration, immigration restrictions, or related policies.
+
+7. Extended Environmental Protection: 0.0 - The initiative doesn't discuss environmental measures, renewable energy promotion, or related policies.
+
+8. Liberal Society: 0.0 - The initiative doesn't discuss personal lifestyle freedom, privacy protection, taboo topics, or religious matters.

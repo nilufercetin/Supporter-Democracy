@@ -1,0 +1,15 @@
+1. Expanded Welfare State: This referendum is directly related to the expansion of state social benefits, with the proposal of setting up a grant for vocational training. It involves the state's role in providing additional resources for social programs such as education and job training. Hence, the relevance score for this axis is 1.0/1. 
+
+2. Liberal Economy: This proposal involves state intervention in the economy to alleviate a market issue - personnel shortage. It suggests lessening competitive forces and is somewhat converse to the notion of privatization, autonomy of state institutions in essential services, and reducing restrictive regulations. Hence, its relevance is present, though not straightforward, and a score of 0.6/1 may be justified. 
+
+3. Restrictive Financial Policy: Funding this grant will require financial resources, implicating the government's financial policy, including changes to the budget. However, the extent of relevance may depend on the size of the proposed grant and its impact on overall government spending. For this aspect, thus, the score can be 0.5/1. 
+
+4. Open Foreign Policy: The proposal doesn't directly refer to bilateral agreements, cooperation with foreign entities, or issues like global trade. Thus, the relevance here is limited and may score around 0.2/1. 
+
+5. Extended Environmental Protection: The proposal doesn't reference any environmental measures or environmentally related topics. It thus appears irrelevant to this axis and may get a score of 0/1.
+
+6. Restrictive Immigration Policy: There is no explicit reference to foreign integration, immigration, or policies related to foreign workers. Hence, relevance to this axis appears low and may be assigned a score of 0.1/1. 
+
+7. Law and Order: The proposal doesn't discuss public safety measures or criminal laws, making this axis minimally relevant or irrelevant, and may be assigned a score of 0/1. 
+
+8. Liberal Society: The proposal doesn't address personal freedoms, religious matters, or personal privacy. Thus, the relevance here is limited or null and may get a score of 0/1.

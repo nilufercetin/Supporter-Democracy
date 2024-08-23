@@ -1,0 +1,15 @@
+1. Restrictive Immigration Policy: High relevance (0.9/1). The text directly refers to changing naturalization rules, a key aspect of this policy.
+
+2. Liberal Society: Medium-high relevance (0.7/1). The changing social norms as referred by "high mobility in the current era" reflect attitudes towards personal lifestyle freedom, privacy protection and handling of taboo topics.
+
+3. Expanded Welfare State: Medium relevance (0.5/1). The text indirectly hints toward improving access to citizenship, which could be interpreted as expanding the state's social benefits.
+
+4. Open Foreign Policy: Low-medium relevance (0.4/1). Although the issue of naturalization does relate to foreign policy, there's no direct reference to the topics outlined in this axis (e.g., engagement with the European Union, other international organizations, or global trade).
+
+5. Liberal Economy: Low relevance (0.2/1). This axis isn't directly related to the text, but any changes in naturalization could have potential indirect impacts on workforce mobility and hence economy.
+
+6. Restrictive Financial Policy: Low relevance (0.2/1). Similarly, it is not directly related but changes in citizenship laws could impact public finances through application fees or social benefits.
+
+7. Law and Order: Very Low relevance (0.1/1).  The changes in citizenship laws could have some impact on law and order but it's not the main theme of the text therefore is deemed less relevant.
+
+8. Extended Environmental Protection: No relevance (0/1). The text doesn't touch upon environmental protection or related topics anywhere.

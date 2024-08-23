@@ -1,0 +1,15 @@
+1. Open Foreign Policy: This axis seems to be the most relevant, as the referendum largely deals with foreign participation in Swiss companies and foreign investments. Measures are being proposed to scrutinize foreign investors more closely, indicating a more guarded position toward international engagement. Relevance Score: 0.9.
+
+2. Law and Order: As the referendum emphasizes the prevention of risky flows of money and maintaining security, this gives it a strong tie to this axis. More transparency and regulations are suggested to mitigate potential threats. Relevance Score: 0.8.
+
+3. Restrictive Financial Policy: The focus on preventing risky financial activities also aligns with a restrictive financial policy, suggesting more control and regulation are needed in financial affairs. Relevance Score: 0.7.
+
+4. Liberal Economy: While not the central theme, the notion of foreign investments in Swiss companies does hold economic implications, albeit primarily related to regulatory aspects rather than proposals advocating for a liberal economy. Relevance Score: 0.6.
+
+5. Restrictive Immigration Policy: The issue of foreign participation indirectly ties with immigration policies, however, it's not directly reflecting views on foreign integration, immigration restrictions, etc., but rather focuses on foreign economic influence. Relevance Score: 0.3.
+
+6. Liberal Society: Concepts such as transparency and security embrace the features of a liberal society; however, the referendum does not seem to particularly address lifestyle freedom, privacy, and religious matters, etc. Relevance Score: 0.3.
+
+7. Expanded Welfare State: This axis seems to be less relevant here, as the referendum does not appear to discuss state social benefits or government social programs. Relevance Score: 0.2.
+
+8. Extended Environmental Protection: This axis doesn't seem to be relevant, as the referendum doesn't mention environmental issues. Relevance Score: 0.1.

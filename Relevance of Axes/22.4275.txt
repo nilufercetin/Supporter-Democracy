@@ -1,0 +1,15 @@
+1. Extended Environmental Protection: The initiative directly deals with environmental protection by proposing a measure to combat greenhouse gas emissions. With the focus on informing consumers, it also seeks to promote environmental consciousness. Score: 1 
+   
+2. Liberal Society: The initiative can be associated with a liberal society because it aims to empower individuals with information to make conscious, environmentally sound choices. However, it's not directly related to personal lifestyle freedom, religious matters, or data privacy. Score: 0.5  
+
+3. Liberal Economy: This measure proposes a new form of regulation that might influence the free market as it could impact what consumers choose to buy. But it does not relate directly to privatization, state autonomy, or removing regulations. Score: 0.3 
+
+4. Open Foreign Policy: Although it's not directly related to Switzerland's engagement with the EU or other international organizations, the proposed measure might have some implications for global trade, especially with countries that have high CO2 emissions in their food production. Score: 0.2
+
+5. Expanded Welfare State: It does not directly relate to state social benefits or government social programs. It may have implications on social responsibility when it comes to environmental protection but it's not primarily about welfare services. Score: 0.1
+
+6. Restrictive Immigration Policy: The initiative does not at all relate to immigration, naturalizations, refugee policies, or foreign political rights. Thus, its relevance is considered quite low. Score: 0.05
+  
+7. Law and Order: The initiative does not pertain to government intervention for public safety, criminal law effectiveness, or personal self-defense rights. It's not about enforcement or regulatory measures. Score: 0.02  
+
+8. Restrictive Financial Policy: The proposed measure doesn't seem to have a direct connection to government spending proposals, austerity measures, or tax adjustments. The cost of implementing this CO2 label may have a slight impact on budget allocation, but it's not the central issue. Score: 0.01

@@ -1,0 +1,15 @@
+1. Extended Welfare State: The referendum directly addresses the extension of state benefits and regulations to enhance worker mental health and productivity. This connects well to this axis as it reflects attitudes towards the accessibility of state social benefits and government social programs. Relevance score: 0.9
+
+2. Liberal Economy: This axis can potentially relate to the referendum as it talks about a restructure of working hours which might have implications for market competition and potentially create a need for sector-specific subsidies to offset any negative impact on businesses. However, it might also be seen as a move away from liberal economic principles by imposing regulations on businesses. Relevance score: 0.7 
+
+3. Restrictive Financial Policy: The referendum might impact government spending as providing full salary compensation will require allocation of funds. So, the attitudes towards such a change could be relevant here. Relevance score: 0.5
+
+4. Law and Order: While the referendum might not directly pertain to law and order, the implementation of it would mean new regulations for businesses which minimally links to the theme of 'government interventions'. Relevance score: 0.3
+
+5. Liberal Society: The element of the referendum that addresses mental health could potentially fall under this axis regarding an individual's personal lifestyle freedom. However, it is at best a tangential connection. Relevance score: 0.2
+
+6. Open Foreign Policy: The relevance to this axis depend on if these workplace changes impact Switzerland's trade and international ties, which isn't expressively dealt with in the referendum. Relevance score: 0.1
+
+7. Restrictive Immigration Policy: The referendum does not address issues of immigration, naturalization or foreign political rights, giving it a very low relevance. Relevance score: 0.05
+
+8. Extended Environmental Protection: This axis does not appear relevant to the referendum as it does not connect to environmental measures, renewable energy promotion, public transportation, private transport restrictions or conservation projects. Relevance score: 0.0

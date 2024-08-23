@@ -1,0 +1,20 @@
+
+For the referendum proposing a package of measures to support the metal production and recycling industry, particularly steel and aluminum, which is being affected by the "Green Deal" and European Union energy policies, here's an assessment of the relevance of each axis, from most relevant to least relevant, along with scores out of 1:
+
+Open Foreign Policy: This axis is the most relevant since the referendum directly addresses the impacts of EU policies (part of the "Green Deal") on Swiss industries. This engagement with EU regulations and international trade policies is central to the issue.
+Relevance Score: 0.9
+Extended Environmental Protection: This axis is crucial as the referendum involves industries (steel and aluminum) that are key to the circular economy and are impacted by environmental policies under the EU's "Green Deal."
+Relevance Score: 0.8
+Liberal Economy: This axis, which includes views on industry regulation and competition, is highly relevant as the referendum seeks to address market imbalances caused by foreign industrial policies that affect local industries.
+Relevance Score: 0.7
+Restrictive Financial Policy: The focus on economic measures to support an industry suggests financial interventions, such as subsidies or fiscal adjustments, to mitigate external policy impacts.
+Relevance Score: 0.6
+Law and Order: Regulatory compliance and the application of new industrial measures align with this axis, particularly in how laws are adapted to ensure fair competition and industrial stability.
+Relevance Score: 0.5
+Expanded Welfare State: Indirectly relevant, as changes in industrial policy can affect employment and economic stability in sectors critical to the national economy, potentially impacting social programs.
+Relevance Score: 0.4
+Liberal Society: This axis is less directly connected but can include public discourse on how industrial policies align with national values and the balance between economic growth and environmental sustainability.
+Relevance Score: 0.3
+Restrictive Immigration Policy: This axis is the least relevant to the referendum as it primarily deals with immigration and integration policies, which are unrelated to the specific industrial and environmental issues at hand.
+Relevance Score: 0.1
+These scores reflect how each axis pertains to the central issues of industrial policy, environmental regulations, and the economic challenges faced by the metal production and recycling sectors in the context of the EU's energy policies.

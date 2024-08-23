@@ -1,0 +1,8 @@
+1. Liberal Economy: This axis seems to be most relevant as the referendum focuses on ensuring price transparency in the food market, which involves state regulation and potential competitive market practices. Score: 1
+2. Expanded Welfare State: This axis is also highly relevant as it concerns ensuring the population's access to good quality food at affordable prices, which is a matter of social programs and benefits. Score: 0.9
+3. Law and Order: Here, the government might be required to enforce certain measures for market monitoring which could fall under government interventions for public welfare. Score: 0.8
+4. Extended Environmental Protection: This axis could have an indirect relevance considering certain environmental measures might affect food market stability and food prices. Score: 0.6
+5. Restrictive Financial Policy: Government spending might be required to carry out the study or monitor the food market, so it could be relevant. However, the text doesn't directly mention any budget changes or tax adjustments. Score: 0.5
+6. Open Foreign Policy: While food market might be affected by global trade, the direct connection isn't made in this referendum text. Score: 0.4
+7. Restrictive Immigration Policy: The text doesn't directly mention anything about foreign integration or immigration, making this aspect rather less relevant. Score: 0.2
+8. Liberal Society: The issue raised in the referendum does not directly touch on personal freedoms or the role of religion, and this axis seems least relevant based on the provided text. Score: 0.1

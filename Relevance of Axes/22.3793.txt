@@ -1,0 +1,17 @@
+Based on the provided referendum text, the relevance of each axis, from the most relevant to the least relevant, along with their scores are as follows:
+
+1. Expanded Welfare State: This axis is the most relevant as the referendum directly addresses the issue of state intervention in healthcare by increasing its contribution towards health insurance premiums. The referendum addresses the extent of state social benefits, such as government social programs. Score: 1.0 
+
+2. Restrictive Financial Policy: As the referendum suggests an increase in the Federal Council's contribution, it indirectly relates to government spending proposals and budget changes. Score: 0.7
+
+3. Liberal Economy: While not directly addressed, this aspect gets affected as the referendum talks about an increase in government's contribution towards health insurance premiums, indirectly hinting at reduced autonomy for state institutions in healthcare. Score: 0.5
+
+4. Law and Order: This axis seems only remotely relevant as it could potentially concern government interventions related to healthcare services. Score: 0.2
+
+5. Open Foreign Policy: The referendum text does not provide any details relevant to this axis, hence not particularly relevant. Score: 0.0
+
+6. Restrictive Immigration Policy: The referendum text does not provide any details relevant to this axis, hence not particularly relevant. Score: 0.0
+
+7. Extended Environmental Protection: The referendum text does not provide any indication related to this axis, hence not relevant. Score: 0.0
+
+8. Liberal Society: This axis is least relevant as it does not seem to be addressed in the text at all. It does not deal with personal lifestyle freedom, privacy protection, or taboo topics. Score: 0.0

@@ -1,0 +1,9 @@
+1. Extended Environmental Protection: The measure directly relates to emissions and environmentally friendly modes of transportation. The possible increase in motor vehicle taxation could encourage the use of cleaner vehicles or other forms of transportation. Relevance Score: 1.0
+
+2. Restrictive Financial Policy: Increasing the taxes on motor vehicles can be seen as a financial pressure from the government. This is directly related to government's fiscal policy hence is relevant. Relevance Score: 0.8
+
+3. Liberal Society: There could be debates on personal freedom to operate any kind of vehicle without increased financial burdens or intrusion. This may create a social discourse on lifestyle freedom and personal rights, hence, it is mildly relevant. Relevance Score: 0.4
+
+4. Liberal Economy: Potentially related, as it could affect automotive manufacturers or other related commercial industries, though only marginally. Relevance Score: 0.2
+
+The remaining axes - Open Foreign Policy, Law and Order, Restrictive Immigration Policy, and Expanded Welfare State - are not directly relevant to this referendum and hence, their relevance score would be 0.0.

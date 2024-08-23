@@ -1,0 +1,15 @@
+1. Restrictive Immigration Policy: The text directly mentions "uncontrolled immigration" which implies an attitude against open immigration policies. So this axis is most relevant. Score: 1
+
+2. Liberal Economy: The expansion of infrastructure implies a government role in economic development, which could be interpreted as advocacy for liberal economic practices. Score: 0.7
+
+3. Extended Environmental Protection: Infrastructure expansion could impact the environment, although the text does not explicitly mention environment protection. Score: 0.5
+
+4. Law and Order: This axis is not completely irrelevant as there might be an indirect implication on the rules implication after the highway expansion. However, it's less likely. Score: 0.3
+
+5. Open Foreign Policy: Although indirectly, the issue of immigration might have implications on foreign policy. However, it is not directly referred to. Score: 0.3
+
+6. Expanded Welfare State: From a broad perspective, the expansion of infrastructure might be a part of social welfare programs. But, it's not explicitly mentioned. Score: 0.2
+
+7. Restrictive Financial Policy: Infrastructure policies could have impacts on governmental financial policies, though the text makes no reference to this topic. Score: 0.2
+
+8. Liberal Society: This axis does not relate to the subject of transport or immigration mentioned in the text. Score: 0.1

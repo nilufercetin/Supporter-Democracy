@@ -1,0 +1,17 @@
+1. Expanded Welfare State: The referendum is directly discussing the expansion of social benefits in terms of gender equality and suggests an investment in related organizations. This might relate to changes in state social benefits and government social programs pertaining to gender equality. Relevance score: 1.0.
+
+2. Liberal Society: The referendum is touching upon equality between different genders, which falls under personal lifestyle freedom and handling of taboo topics in the society. Relevance score: 0.8.
+
+3. Restrictive Financial Policy: The referendum involves potentially changing government spending proposals, as it talks about providing more funding to gender equality organizations. Relevance score: 0.6.
+
+4. Law and Order: Although not explicitly stated, the successful implementation of 'Equality Strategy 2030' might require the support of legal and regulatory frameworks, affecting law and order indirectly. Relevance score: 0.4.
+
+5. Open Foreign Policy: The referendum does not directly involve Switzerland's engagement with foreign countries or international organizations. But indirectly, this could have an impact on Switzerland's international image and bilateral agreements. Relevance score: 0.2.
+
+6. Liberal Economy: Although not central to the topic, calls for more funding could potentially impact the autonomy of state institutions and funding distribution for essential services. Relevance score: 0.1.
+
+The following axes are not explicitly relevant to the referendum based on the given text. Therefore, they both receive a score of 0:
+
+7. Restrictive Immigration Policy: The referendum does not discuss foreign integration, immigration restrictions, or issues related to foreigners' rights.
+
+8. Extended Environmental Protection: The referendum does not involve any discussions or proposals around environmental measures, renewable energy sources, public transportation, restrictions on private motorized transport, etc.

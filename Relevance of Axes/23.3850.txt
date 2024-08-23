@@ -1,0 +1,8 @@
+1. Restrictive Financial Policy: This is the most relevant axis as the referendum proposes modifications to the financial framework to stabilize rents and control inflation. It discusses government measures concerning economic stability. Relevance Score: 0.9
+2. Liberal Economy:  This aspect is relevant too as controlling rental rates can impact the competitive housing market and may concern autonomy of real estate businesses. Relevance Score: 0.75
+3. Expanded Welfare State: As this proposal seems to be a social benefit, aiming to make living more affordable for citizens. This axis is therefore relevant to the referendum. Relevance Score: 0.7
+4. Liberal Society: The referendum may indirectly relate to this axis through its potential impact on people's lifestyles in terms of housing affordability. However, it does not directly address lifestyle freedoms, privacy, or taboo topics. Relevance Score: 0.3
+5. Open Foreign Policy: There's no mention of international engagements, bilateral agreements, or global trade. Thus, this axis isn't clearly relevant. Relevance Score: 0.1
+6. Restrictive Immigration Policy: The referendum text doesn't involve any aspect of immigration, naturalization or foreign political rights. Therefore, this axis has low relevance. Relevance Score: 0.1
+7. Extended Environmental Protection: The proposal does not discuss environmental or conservation matters. This axis has minimum relevance. Relevance Score: 0.05
+8. Law and Order: The referendum does not talk about public safety measures or interventions. Therefore, this axis is not relevant to the content of the referendums. Relevance Score: 0.05

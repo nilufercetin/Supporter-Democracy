@@ -1,0 +1,15 @@
+1. Liberal Society: 1.0 - The referendum is directly related to personal lifestyle freedom, privacy, and handling of taboo topics such as non-binary gender. The responsibility given to the Federal Council to present possible measures falls under the state's role in religious matters and issues about freedom of expression and belief.
+
+2. Expanded Welfare State: 0.7 - The onus on the Federal Council to propose feasible measures also reflects the state's commitment to social programs. However, the referendum doesn't directly mention access to state social benefits or pension savings.
+
+3. Open Foreign Policy: 0.4 - As this referendum involves progressive social topics such as non-binary gender recognition which might be influenced by international norms and standards(Assumed based on general context), however, there's no direct reference to international engagement or commitments.
+
+4. Liberal Economy: 0.2 - The referendum does not expressly talk about any economic aspect, but inferred relevancy can be from potential economic implications of the proposed measures.
+
+5. Restrictive Financial Policy: 0.2 - Similarly to the Liberal Economy, the referendum does not expressly talk about this axis, but the feasibility of the proposed measures might be influenced by budget considerations.
+
+6. Law and Order: 0.1 - The axis is barely relevant as there's no explicit mention about public safety, criminal law or self-defense related to the referendum topic raised.
+
+7. Restrictive Immigration Policy: 0 - The referendum does not mention any aspects of immigration policy, naturalizations, or foreign political rights.
+
+8. Extended Environmental Protection: 0 - The referendum's focus is not related to environmental measures, renewable energy, transportation, animal welfare, or other ecological concerns.

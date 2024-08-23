@@ -1,0 +1,19 @@
+For the referendum discussing the need for changes in the legal bases to subject international organizations like FIFA to the same tax regime as for-profit companies, considering they make profits despite their non-profit status, here's the analysis of the relevance of each axis from most relevant to least relevant, along with relevance scores out of 1:
+
+Open Foreign Policy: This axis is highly relevant since the referendum involves international organizations like FIFA, which plays a significant role in global sports and interacts extensively with international entities.
+Relevance Score: 0.9
+Restrictive Financial Policy: The focus on adjusting tax regimes directly pertains to financial policies, especially concerning how these organizations are treated under tax laws compared to for-profit entities.
+Relevance Score: 0.8
+Liberal Economy: This axis involves regulation and the competitive landscape, which are pertinent here as the proposal aims to level the playing field between non-profit organizations that operate like for-profit entities and their for-profit counterparts.
+Relevance Score: 0.7
+Law and Order: Ensuring that international organizations adhere to local tax laws aligns with law enforcement and regulatory compliance, making this axis quite relevant.
+Relevance Score: 0.6
+Liberal Society: Issues of fairness and transparency in tax legislation, which affect both the public perception and the legal treatment of entities like FIFA, tie into this axis regarding equity and societal norms.
+Relevance Score: 0.4
+Expanded Welfare State: Indirectly, the proper taxation of large organizations can impact public revenues and thus the funding available for social programs, although this connection is more tangential.
+Relevance Score: 0.3
+Extended Environmental Protection: This axis has little direct relevance unless the tax policies specifically aim to address environmental funding or penalties, which is not indicated in the referendum context.
+Relevance Score: 0.1
+Restrictive Immigration Policy: This axis is the least relevant as it primarily focuses on policies around immigration and integration, which are unrelated to the fiscal treatment of international organizations.
+Relevance Score: 0.05
+These relevance scores reflect how closely each axis relates to the core issues raised in the referendum about adjusting the tax laws for international organizations to align them more closely with those for comparable for-profit companies.

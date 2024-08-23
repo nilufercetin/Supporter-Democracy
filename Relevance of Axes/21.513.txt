@@ -1,0 +1,19 @@
+For the referendum proposing legal penalties, including imprisonment or monetary fines, for public incitement of hatred or discrimination based on racial, ethnic, religious affiliation, sexual orientation, or gender, here's how each axis ranks in relevance, along with their relevance scores out of 1:
+
+Law and Order: This axis is the most relevant as the referendum deals directly with the implementation and enforcement of criminal laws concerning public safety, hate speech, and discrimination.
+Relevance Score: 0.9
+Liberal Society: Highly relevant, this axis concerns the protection of individual rights, handling of sensitive social topics, and the balance between freedom of expression and protection against harmful speech.
+Relevance Score: 0.8
+Open Foreign Policy: While the focus of this axis is typically international, the enforcement of laws against hate speech can affect international perceptions and relations, especially regarding human rights standards.
+Relevance Score: 0.5
+Expanded Welfare State: This axis is indirectly relevant as social stability and the protection of vulnerable groups contribute to the broader social welfare and cohesion.
+Relevance Score: 0.4
+Liberal Economy: There’s minimal relevance here, except in the broader context of how societal harmony and legal standards can impact the economic environment, possibly affecting workplace discrimination laws and corporate policies.
+Relevance Score: 0.3
+Restrictive Financial Policy: This axis is less directly related, but the imposition of monetary penalties as potential punishment can have fiscal implications for government revenue and legal enforcement budgets.
+Relevance Score: 0.2
+Extended Environmental Protection: This axis is largely irrelevant to the issue of hate speech and legal penalties, focusing instead on environmental concerns.
+Relevance Score: 0.1
+Restrictive Immigration Policy: While somewhat relevant to how immigrants might be protected or targeted by hate speech laws, this axis primarily deals with immigration policies rather than internal legal standards on discrimination.
+Relevance Score: 0.1
+These scores reflect how each axis connects to the main issues raised in the referendum, focusing on the establishment of stricter legal measures against public incitement of hate and discrimination.

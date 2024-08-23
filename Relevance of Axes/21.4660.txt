@@ -1,0 +1,15 @@
+1. Liberal Society: The entire focus of the referendum is on the privacy of individuals, personal lifestyle freedom, and the protection of personal data, especially in terms of surveillance technology. Hence, the relevance is very high. Relevance score: 1.
+
+2. Law and Order: The need for limiting the acquisition of certain objects or software and their usage directly correlates with this axis, as it involves government intervention and potential changes to the criminal law. Relevance score: 0.8.
+
+3. Expanded Welfare State: The aspect of protection from potential threats or invasions of privacy, which would likely require state resources and programs, overlaps slightly with this axis. Relevance score: 0.4.
+
+4. Open Foreign Policy: Although the referendum doesn’t directly specify international components, the global nature of technology companies could be relevant, especially if international cooperation is needed for regulation. Relevance score: 0.3.
+
+5. Restrictive Financial Policy: The implementation of regulatory measures, which this referendum calls for, could have implications for government spending, however, this would be quite tangential. Relevance score: 0.2.
+
+6. Liberal Economy: There could be some minor implications for the economy if certain technologies or software were limited, but this is neither a main nor a clear point of the referendum. Relevance score: 0.1.
+
+7. Restrictive Immigration Policy: This seems almost entirely irrelevant for this referendum, as it doesn't mention anything about foreign individuals or their rights. Relevance score: 0.0.
+
+8. Extended Environmental Protection: This axis is not relevant to the topic of the referendum, as it doesn't reflect any elements of environmental protection or conservation. Relevance score: 0.0.

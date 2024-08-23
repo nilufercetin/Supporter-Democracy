@@ -1,0 +1,15 @@
+1. Liberal Economy: This axis seems most relevant because the referendum seems to touch on regulations pertaining to rents and landlords. If the legislation favoring more significant checks on rental prices is enacted, it may restrict the autonomy of the real estate or private property market, a key subset of the economy. (Relevance Score: 0.9)
+
+2. Extended Environmental Protection: The ability for cantons and municipalities to dictate housing prices could potentially influence the design and implementation of environmentally-friendly housing projects. Yet this connection is not directly mentioned in the referendum, so it is less relevant than the Liberal Economy. (Relevance Score: 0.4) 
+
+3. Expanded Welfare State: The issue of housing affordability could be tied to social programs and benefits, as part of a broader welfare state. However, the connection here isn't as strong as with the Liberal Economy axis. (Relevance Score: 0.3) 
+
+4. Restrictive Financial Policy: The policy might indirectly affect budget allocations for housing authorities or departments responsible for monitoring rent pricing. Still, the direct relevance to a financial policy defined by government spending proposals, austerity measures, budget changes, and tax adjustments seems low. (Relevance Score: 0.2)
+
+5. Law and Order: The legislation does propose new regulations and checks, which relate to Law and Order. Yet it's focused more on economic policy rather than public safety or criminal law. (Relevance Score: 0.2)
+
+6. Restrictive Immigration Policy: While housing can impact immigration policy indirectly, this element doesn't seem directly addressed by this particular referendum. (Relevance Score: 0.1)
+
+7. Open Foreign Policy: This axis doesn't seem relevant because the referendum appears to be domestic rather than focusing on interactions with international organizations or entities. (Relevance Score: 0.1)
+
+8. Liberal Society: There's no clear link between the proposed legislation and societal views on personal lifestyle freedom, privacy, or religious matters, nor individual freedoms or protections. (Relevance Score: 0.1)

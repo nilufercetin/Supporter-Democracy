@@ -1,0 +1,15 @@
+1. Open Foreign Policy (0.8): The text explicitly discusses improving visa facilitation for individuals worldwide, including engagement with third world countries. This falls under international cooperation and commitments to bilateral agreements.
+
+2. Restrictive Immigration Policy (0.7): Even though the policy is about made easier for a specific group of people (artists and cultural promoters), it is still related to immigration policy. 
+
+3. Liberal Economy (0.4): The topic might indirectly touch upon the promotion of cultural trade and competition to some extent.
+
+4. Liberal Society (0.3): It touches upon the freedom of expression in cultural acts and belief.
+
+5. Extended Environmental Protection (0.1): There's faint relevance. Cultural acts could indirectly promote environmental protection through awareness, but this connection is quite weak.
+
+6. Law and Order (0.1): There is a tangential relation. The proposal might necessitate changes in law to facilitate the visa application process.
+
+7. Restrictive Financial Policy (0.0): No connection can be immediately derived from the text regarding financial policy, austerity, budget changes, or tax adjustments.
+
+8. Expanded Welfare State (0.0): There appears to be no relevance to the discussed topic about state social benefits, government social programs, or promoting private retirement savings and social responsibility. The focus here is more on cultural promotion globally rather than social welfare.

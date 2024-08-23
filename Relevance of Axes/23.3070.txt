@@ -1,0 +1,24 @@
+For the referendum concerning the examination of whether public funding provided to public organizations has resulted in better working conditions and/or higher wages that may have subsequently caused unequal competition and hindered private sector growth, we can assess the relevance of each axis from most relevant to least relevant along with relevance scores out of 1:
+
+Liberal Economy: This axis is directly relevant as the referendum focuses on competition between the public and private sectors, regulation impacts, and how state intervention might affect market dynamics.
+Relevance Score: 0.9
+Restrictive Financial Policy: The concern about government spending and its impacts on the economic landscape makes this axis highly relevant. It deals with how fiscal policies, such as funding public organizations, influence broader economic conditions.
+Relevance Score: 0.8
+Expanded Welfare State: This axis involves government interventions in providing social benefits, which in this case could be interpreted as better working conditions or higher wages funded by public money.
+Relevance Score: 0.7
+Liberal Society: Issues of fairness and equal opportunity in employment could fall under this axis, where government policies might affect the personal economic freedoms of individuals in the private sector.
+Relevance Score: 0.5
+Open Foreign Policy: Although less directly connected, policies that influence public sector competitiveness could also affect Switzerland's economic interactions on a global scale, including how it competes or cooperates internationally.
+Relevance Score: 0.3
+Law and Order: The enforcement of regulations that might stem from the findings of such an analysis would involve legal frameworks, although this connection is indirect.
+Relevance Score: 0.2
+Extended Environmental Protection: This axis has little direct relevance to the issue of funding and competition between the public and private sectors, unless specifically the funding pertains to environmental practices.
+Relevance Score: 0.1
+Restrictive Immigration Policy: This axis is the least relevant as it focuses on immigration and naturalization policies, which are unrelated to the referendum's focus on public funding and competitive conditions.
+Relevance Score: 0.05
+These scores reflect the relevance based on how directly each axis is connected to the core issues raised in the referendum.
+
+
+
+
+

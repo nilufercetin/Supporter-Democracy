@@ -1,0 +1,15 @@
+1. Law and Order: This axis appears to be the most relevant because the referendum is initiated due to a deteriorating security situation in the Swiss Army and aims to strengthen it. The transition from military to civil service is a public safety measure. Relevance score: 0.9.
+   
+2. Liberal Economy: This presents the second most relevance as this may impact the autonomy of state institutions in their human resource management. Relevance score: 0.7.
+   
+3. Restrictive Financial Policy: The specifics of the referendum could affect government spending, particularly if the implementation of tighter conditions involves additional budgetary outlays. Relevance score: 0.6.
+   
+4. Expanded Welfare State: This axis could bear some relevance depending upon how this transition impacts state support and social benefits for those service members. Relevance score: 0.5.
+   
+5. Open Foreign Policy: This might not be directly relevant, as it doesn't specifically involve foreign policy or international cooperation. However, the strength of the army could indirectly affect foreign relationships. Relevance score: 0.3.
+   
+6. Restrictive Immigration Policy: This does not seem relevant unless the military service in question involves overseas personnel. This doesn't seem to be the case as per the provided text. Relevance score: 0.2.
+   
+7. Extended Environmental Protection: This does not seem relevant, as the discussion does not involve environmental measures or policies. Relevance score: 0.1. 
+
+8. Liberal Society: This too does not seem to bear any relevance, as there is no mention of lifestyle freedom, privacy protection, or religious matters in the provided text. Relevance score: 0.1.

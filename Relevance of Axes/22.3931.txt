@@ -1,0 +1,15 @@
+1. Restrictive Financial Policy: The core issue addressed by the referendum relates directly to financial policy, specifically taxation and redistribution of wealth. The suggestion to tax superprofits of energy companies and use the revenue to reduce energy expenditure of households and SMEs directly falls under this axis. Relevance Score: 1
+
+2. Liberal Economy: The referendum proposes legislative modifications that could impact the autonomy of energy companies (a sector-specific policy), which ties into elements of the liberal economy axis. Relevance Score: 0.8 
+
+3. Expanded Welfare State: Since the proposed policy aims at reducing the energy expenditure of households and SMEs, it can also be associated with this axis. It is designed with the aim of collective welfare of the society. Relevance Score: 0.7
+
+4. Extended Environmental Protection: Although not directly mentioned, taxing superprofits might encourage energy companies to re-evaluate their operations. This could potentially have indirect environmental implications. Relevance Score: 0.5
+
+5. Law and Order: This axis is somewhat related, as the change would lead to new legislation regulating the taxation of energy company profits. Relevance Score: 0.4
+
+6. Open Foreign Policy: Tenuous relevance, as international trade (in this case, oil) is involved, but the axis isn't directly addressed. The larger geopolitical context (wars impacting oil prices) could be a loose connection. Relevance Score: 0.3  
+
+7. Liberal Society: While the proposal aims for fairness and justice, which could be seen as components of a liberal society, this aspect is not explicitly addressed in the text. Relevance Score: 0.2 
+
+8. Restrictive Immigration Policy: This axis does not seem to be directly relevant to the issues addressed in the referendum. The text does not mention anything about immigration, integration, asylum, or related matters. Relevance Score: 0

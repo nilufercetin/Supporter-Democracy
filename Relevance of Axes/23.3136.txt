@@ -1,0 +1,20 @@
+
+For the referendum requiring the Federal Council to prepare a comprehensive report on the proliferation of radical conspiracy groups in Switzerland, including the assessment of their dangers and the measures to combat them, here's how each axis ranks in relevance, along with their relevance scores out of 1:
+
+Law and Order: This axis is most relevant as the referendum focuses on public safety and the effectiveness of governmental interventions in handling the threat posed by radical groups, which involves criminal law and enforcement.
+Relevance Score: 0.9
+Liberal Society: Also highly relevant, this axis deals with protecting personal freedoms while managing taboo topics and extremism. The need to balance security measures against freedom of expression and belief is central here.
+Relevance Score: 0.8
+Open Foreign Policy: Given the potential international connections of such groups and the need for international cooperation to address them, this axis holds significant relevance.
+Relevance Score: 0.6
+Restrictive Immigration Policy: This axis is moderately relevant, as there might be considerations related to the control of foreign influences and the integration of immigrants, particularly if radical groups are partly composed of or influenced by non-nationals.
+Relevance Score: 0.5
+Expanded Welfare State: Indirectly relevant, as social programs and welfare initiatives can be tools to combat the root causes of radicalization, such as economic disenfranchisement.
+Relevance Score: 0.4
+Restrictive Financial Policy: Financial policies may play a role in funding anti-radicalization efforts or restricting the financial capabilities of such groups, although this connection is less direct.
+Relevance Score: 0.3
+Liberal Economy: This axis has some relevance, as economic stability and competition can influence social cohesion and the susceptibility of individuals to radical ideas, albeit more indirectly.
+Relevance Score: 0.2
+Extended Environmental Protection: This axis is the least relevant to the specific issues of radical groups and national security, focusing instead on environmental concerns.
+Relevance Score: 0.1
+These scores reflect the directness of each axis's connection to the issues of national security, the handling of extremism, and the balance between maintaining public safety and protecting civil liberties as addressed in the referendum.

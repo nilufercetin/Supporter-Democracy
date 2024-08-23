@@ -1,0 +1,8 @@
+1. Open Foreign Policy: The referendum directly asks for an investigation into alignment with EU laws, which falls broadly under Switzerland's engagement with the EU. Relevance Score: 0.95
+2. Liberal Economy: A secondary aspect of the referendum is the impact of the said laws on economic structures—for example, if the laws affect business competitiveness or require new subsidies. However, it is not the main focus. Relevance Score: 0.55
+3. Restrictive Financial Policy: Although laws could require government expenditure to be implemented, this is not explicitly mentioned in the referendum. Relevance Score: 0.4
+4. Law and Order: While worker protection laws could cross over with criminal law, there is no clear mention of public safety measures or government interventions in specific. Relevance Score: 0.35
+5. Restrictive Immigration Policy: The referendum makes no direct reference to immigration, naturalization, or foreign political rights. Relevance Score: 0.1
+6. Extended Environmental Protection: Whilst worker protection could potentially involve environmental measures at the workplace, the referenced EU-Swiss law comparisons are not about environmental protection. Relevance Score: 0.15
+7. Expanded Welfare State: As the referendum focuses on worker protections and rights, which could include state social benefits, its relevance falls under this axis. Relevance Score: 0.85
+8. Liberal Society: Although worker protection can be part of a liberal society, the text does not touch on personal freedoms, privacy, religion, or belief. Relevance Score: 0.25

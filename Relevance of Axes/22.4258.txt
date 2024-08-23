@@ -1,0 +1,10 @@
+Based on the text provided, the relevance of each axis in order of most to least relevant, along with their scores would be:
+
+1. Liberal Economy: This axis is most relevant as the referendum is about optimizing projects which could involve aspects of privatization and regulations. Score: 0.9
+2. Restrictive Financial Policy: Budget changes could be necessary for the project discussed in the referendum, therefore it's highly relevant. Score: 0.8
+3. Expanded Welfare State: The referendum aims to promote a large-scale infrastructure project that will presumably benefit the public at large. Score: 0.7
+4. Extended Environmental Protection: Given the relevance to public transportation, this axis has some relevance. Score: 0.6
+5. Law and Order: There may be certain legal considerations for this project. Score: 0.5
+6. Liberal Society: Aspects like data protection and freedom of expression might not directly relate but could play a role due to the public nature of the projects mentioned. Score: 0.4
+7. Open Foreign Policy: Although not directly related, international practices might be used as references for this process. Score: 0.3
+8. Restrictive Immigration Policy: This aspect seems least relevant to the issue at hand. Score: 0.1

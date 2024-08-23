@@ -1,0 +1,15 @@
+1. Expanded Welfare State (1.0/1.0): The text is primarily about social benefits, support, and issues that deal directly with the welfare of citizens, particularly for families and children. This involves terms defined under family law which is very relevant to the welfare state.
+
+2. Liberal Society (0.7/1.0): This text indirectly talks about marital status and societal norms which can be considered under the liberal society axis. The mention of marriage and cohabitation can indicate social freedom and personal lifestyle freedom.
+
+3. Restrictive Financial Policy (0.4/1.0): The relevance is weaker here but financial aspects are touched upon when mentioning 'maintenance contributions' that could impact government budgeting.
+
+4. Law and Order (0.3/1.0): It indirectly refers to legal issues regarding the custody of children when parents separate, although the text does not primarily focus on the legal framework of the issue.
+
+5. Open Foreign Policy (0.0/1.0): The text does not engage with the subject of foreign policy or international relations.
+
+6. Liberal Economy (0.0/1.0): There is no relevance mentioned about privatization or the role of state institutions in essential services.
+
+7. Restrictive Immigration Policy (0.0/1.0): The text does not discuss foreign integration, immigration or refugee policies.
+
+8. Extended Environmental Protection (0.0/1.0): The text does not involve environment-related issues or renewable energy sources.

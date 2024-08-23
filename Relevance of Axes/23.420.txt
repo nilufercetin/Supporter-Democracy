@@ -1,0 +1,19 @@
+For the referendum concerning the provision of immunity for municipal-level elected officials in Switzerland, who face criminal complaints for comments made during parliamentary debates, here’s how each axis ranks in relevance, along with their relevance scores out of 1:
+
+Law and Order: This axis is the most relevant as the referendum directly deals with legal protections (immunity) for officials and the effectiveness of laws governing political speech and accountability.
+Relevance Score: 0.9
+Liberal Society: Highly relevant, this axis addresses the balance between freedom of expression and legal accountability. It examines how legal frameworks can protect or restrict political speech within the context of democratic functions.
+Relevance Score: 0.8
+Open Foreign Policy: Although the referendum is focused on domestic law, there is a slight relevance in terms of how such legal provisions might affect perceptions of Swiss democratic norms in international contexts, such as comparisons with other countries' practices regarding political immunity.
+Relevance Score: 0.3
+Restrictive Financial Policy: While generally focused on fiscal policies, the management of legal affairs, including potential legal costs associated with prosecuting or defending elected officials, could indirectly involve financial considerations, albeit this is a weaker connection.
+Relevance Score: 0.2
+Liberal Economy: There’s minimal relevance here, except perhaps in the broad context of how political stability and governance practices, influenced by legal protections for politicians, might affect the economic environment.
+Relevance Score: 0.1
+Expanded Welfare State: This axis has limited relevance to the referendum’s focus, as it deals primarily with social benefits and public welfare programs, not legal immunity for political speech.
+Relevance Score: 0.1
+Extended Environmental Protection: This axis is largely irrelevant to the issue of legal immunity for political comments, as it focuses on environmental and conservation issues.
+Relevance Score: 0.05
+Restrictive Immigration Policy: This axis is the least relevant, as it concerns immigration and integration policies, which are unrelated to the provision of immunity for municipal officials.
+Relevance Score: 0.05
+These relevance scores reflect the directness of each axis's connection to the core issues of legal immunity for elected municipal officials as addressed in the referendum, focusing particularly on legal protections and the dynamics of free expression within political roles.

@@ -1,0 +1,9 @@
+1. Law and Order: This axis is most relevant to the given referendum text, as it revolves around changes in the criminal code and calling for stronger legal actions to fill a 'loophole' in the current legislation. Estimated Relevance Score: 1.00 
+
+2. Restrictive Financial Policy: This axis has some relevance in the context of money laundering and corruption that could affect the nation's financial stability and policy. However, the connection isn't direct, making it a bit less relevant than other axes. Estimated Relevance Score: 0.75 
+
+3. Liberal Economy: The issue of corruption can indirectly affect the economy and its governance. Therefore, the relevance to this axis is moderate. Estimated Relevance Score: 0.50 
+
+4. Liberal Society: This axis has limited relevance as the subject of the referendum deals with criminal behavior, which can potentially affect individual freedoms and the public's sense of justice. This connection, however, is indirect. Estimated Relevance Score: 0.25 
+
+The other axes - Open Foreign Policy, Restrictive Immigration Policy, Extended Environmental Protection, and Expanded Welfare State, appear to have little to no relevance to this particular referendum. Their estimated relevance scores would be zero.

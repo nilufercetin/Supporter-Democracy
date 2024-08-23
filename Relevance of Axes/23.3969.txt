@@ -1,0 +1,25 @@
+For the referendum proposing systematic expulsion for members of the diplomatic corps involved in espionage, despite diplomatic immunity under the Vienna Convention on Diplomatic Relations, here's the relevance assessment of each axis from most relevant to least relevant, with relevance scores out of 1:
+
+Law and Order: This axis is highly relevant as the referendum deals directly with legal responses to criminal actions (espionage) and the enforcement of laws against individuals with diplomatic immunity.
+Relevance Score: 0.9
+Open Foreign Policy: This referendum directly affects international relations and diplomatic engagements, especially concerning how Switzerland interacts with other countries' diplomatic staff and manages international legal frameworks like the Vienna Convention.
+Relevance Score: 0.8
+Liberal Society: This axis relates to the protection of national security and public safety, aligning with the need to handle sensitive international issues like espionage, while balancing the principles of justice and privacy.
+Relevance Score: 0.7
+Restrictive Immigration Policy: Although typically focused on immigration, this axis is somewhat relevant in the context of managing foreign nationals within the country, especially those with special status like diplomats.
+Relevance Score: 0.5
+Restrictive Financial Policy: Indirectly, espionage and diplomatic relations can influence national security policies which may include budget allocations for intelligence and security. However, this connection is tangential.
+Relevance Score: 0.3
+Liberal Economy: The impacts on economic relations are less direct, but systematic expulsion could potentially affect bilateral trade relations if diplomatic tensions arise as a result.
+Relevance Score: 0.2
+Expanded Welfare State: This axis has minimal relevance unless diplomatic tensions resulting from expulsions indirectly affect economic stability and therefore social welfare programs.
+Relevance Score: 0.1
+Extended Environmental Protection: This axis is the least relevant to the issue of espionage and diplomatic expulsions, as it focuses primarily on environmental issues and policies.
+Relevance Score: 0.05
+These scores reflect the direct and indirect connections each axis has with the core issues raised in the referendum concerning diplomatic immunity and the expulsion of diplomats involved in espionage.
+
+
+
+
+
+

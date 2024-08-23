@@ -1,0 +1,9 @@
+1. Restrictive Financial Policy: This axis is most relevant as the text discusses a change in a mandatory tax policy that affects all taxpayers. The aim being to increase the purchasing power of the taxpayers puts this within the restrictive financial policy axis. Relevance Score: 0.9
+
+2. Liberal Economy: The discussion about whether or not to privatize a public service, as well as how subsidized that service should be, is underlying in the text, thus giving this axis some relevance. Relevance Score: 0.6
+
+3. Expanded Welfare State: Although not directly mentioned, the implications of the change in tax policy could impact the welfare state by changing the accessibility and extent of certain public services, in this case, radio and television. Relevance Score: 0.5
+
+4. Open Foreign Policy: The international relations aspect does not seem to be directly relevant to the issue at hand - making a domestic change to a domestic tax policy. However, given that international trade policy could indirectly affect the costs and revenues of the media sector, I'll assign it a minimal relevance. Relevance Score: 0.1
+
+5. Extended Environmental Protection, Law and Order, Restrictive Immigration Policy, and Liberal Society: These axes do not seem to have any clear relevance to the referendum's content, so each could be considered least relevant. Relevance Score: 0.0 for each.

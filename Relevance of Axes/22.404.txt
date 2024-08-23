@@ -1,0 +1,15 @@
+1. **Restrictive Immigration Policy:** This is the most relevant axis, as the referendum is directly about changing current immigration restrictions, in particular, those regarding naturalization. So it gets a relevance score of 1. 
+
+2. **Expanded Welfare State:** Also relevant, as easing naturalization procedures can be seen as improving accessible state social benefits for certain residents. Score: 0.6.
+
+3. **Liberal Society:** It has relevance as easier naturalization processes can be linked to personal lifestyle freedom and matters related to the right to a nationality. Score: 0.6.
+
+4. **Open Foreign Policy:** Somewhat relevant, as changes in immigration policy could reflect on Switzerland's engagement with international organizations and bilateral agreements. Score: 0.4.
+
+5. **Liberal Economy:** The relevance is low. While changes to citizenship requirements could potentially affect the labor market and, subsequently, the economy, the connection is indirect. Score: 0.2.
+
+6. **Restrictive Financial Policy:** Quite indirect relevance, as costs of implementing changes to naturalization procedures could affect government spendings. However, this is not directly addressed in the referendum text. Score: 0.1.
+
+7. **Law and Order:** The relevance is low, as the referendum does not directly address issues of public safety measures or criminal law. Score: 0.1.
+
+8. **Extended Environmental Protection:** There is no relevance of this axis to the referendum, as it has no relation with environmental matters. Score: 0.0.

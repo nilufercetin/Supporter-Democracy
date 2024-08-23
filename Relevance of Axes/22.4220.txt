@@ -1,0 +1,19 @@
+For the referendum regarding the Swiss National Bank (SNB) establishing an anonymous electronic payment system called GNU-Taler, which aims to limit anonymity to the buyer while ensuring sellers can declare their income, here’s the analysis of the relevance of each axis from most relevant to least relevant, along with relevance scores out of 1:
+
+Liberal Society: This axis is most directly relevant as the system involves privacy protection and the handling of personal data, aligning with the rights to privacy and the security of personal transactions.
+Relevance Score: 0.9
+Law and Order: The regulatory aspects of ensuring that income is declared by sellers while maintaining buyer anonymity ties closely with law enforcement, compliance, and criminal law effectiveness.
+Relevance Score: 0.8
+Restrictive Financial Policy: This initiative involves the creation of a new financial tool, which pertains to monetary policy and regulatory frameworks managed by the national bank, influencing financial systems and security.
+Relevance Score: 0.7
+Open Foreign Policy: While less directly related, the development of a national electronic payment system could impact Switzerland’s engagement in financial and trade agreements internationally, especially in terms of financial transparency and digital trade security.
+Relevance Score: 0.5
+Liberal Economy: The establishment of such a payment system could influence market competition, particularly in the financial sector, affecting how businesses operate and compete.
+Relevance Score: 0.4
+Expanded Welfare State: Indirectly, a secure and transparent payment system could influence economic stability, potentially affecting tax revenues and therefore funding for social programs.
+Relevance Score: 0.3
+Extended Environmental Protection: This axis has minimal direct relevance unless the implementation of the electronic payment system indirectly supports environmental initiatives through reduced physical currency production.
+Relevance Score: 0.1
+Restrictive Immigration Policy: This axis is the least relevant as it focuses on immigration and integration policies, which have little to no direct connection to the implementation of a domestic electronic payment system.
+Relevance Score: 0.05
+These relevance scores reflect how each axis connects to the central issues of implementing a new electronic payment system that balances anonymity for buyers with transparency for sellers to enhance financial security and compliance.

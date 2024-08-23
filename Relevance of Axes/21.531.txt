@@ -1,0 +1,15 @@
+1. Liberal Economy: 0.9 - The referendum is about legislative changes to prevent an explosion in the sale prices and rents of housing and commercial premises, directly relating to private sector operation and regulations.
+
+2. Expanded Welfare State: 0.85 - The desire to maintain affordable housing ties into a concern for accessible state benefits for the public and ensuring a level of social responsibility from the state.
+   
+3. Restrictive Financial Policy: 0.6 - The mention of permanent monitoring of prices could imply some form of government spending or resource allocation, hence this policy axis is somewhat relevant.
+  
+4. Extended Environmental Protection: 0.25 - Although the project is urban and could have some environmental implications, the text does not directly discuss any related policies or initiatives.
+
+5. Liberal Society: 0.2 - The impact on residents can potentially relate to personal lifestyle freedoms. However, the correlation is indirect and not explicitly mentioned in the text.
+
+6. Law and Order: 0.15 - While legislative changes are mentioned, they don't directly refer to public safety, criminal law effectiveness, or personal self-defense rights.
+
+7. Restrictive Immigration Policy: 0.1 - There are no explicit references to immigration or foreign integration. 
+
+8. Open Foreign Policy: 0.05 - The referendum seems primarily focused on domestic matters, with no clear connection to international engagement or trade.

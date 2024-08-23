@@ -1,0 +1,8 @@
+1. Law and Order: 1 (The referendum is about creating a consistent, national legal framework for client declaration, which directly ties into law and order matters).
+2. Liberal Society: 0.8 (The consideration of data storage rules and privacy protection in the proposed solution aligns with the axis of a liberal society).
+3. Restrictive Financial Policy: 0.7 (The digital solution may imply changes in tax collection, as the remuneration might be taxed differently with uniform client declaration).
+4. Expanded Welfare State: 0.4 (This axis might be relevant if the remuneration from the accommodations contributes to the broader social welfare and benefits system, though it is indirectly related).
+5. Open Foreign Policy: 0.2 (Foreign policy might be slightly affected if the accommodations in question include those for foreign visitors, but it's a peripheral concern).
+6. Liberal Economy: 0.1 (Even though it could potentially affect economic activities related to accommodations, the proposed change seems more regulatory than liberal economy practice).
+7. Restrictive Immigration Policy: 0.1 (There might be indirect influences on this axis if immigration affects the clientele for accommodations, but it's largely not applicable).
+8. Extended Environmental Protection: 0 (The referendum seemingly does not relate to environmental protection or similar concerns).

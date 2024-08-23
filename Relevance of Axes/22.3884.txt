@@ -1,0 +1,15 @@
+1. Liberal Economy: This axis is the most relevant as the aim of the platform is to increase competition in the fuel market and maintain price transparency. The score for relevance here should be around 1 - being maximally relevant, as the policy explicitly addresses market competition and transparency.
+
+2. Law and Order: This axis would be relevant if the platform's establishment is legislated and mandated by government or legal authorities. The platform can enforce fair trade, competition laws, and consumer protection. So, it's relevance should be around 0.6.
+
+3. Extended Environmental Protection: This axis is somewhat relevant since fuel consumption indirectly pertains to environmental issues, especially if it prompts changes in consumer behaviour towards more environmentally friendly options due to the visibility of fuel prices. The relevance score would be around 0.5.
+
+4. Expanded Welfare State: The state's role in providing this platform could be seen as a social benefit, ensuring transparency and encouraging competition. However, as it isn't a typical area of social provision, the relevance might be 0.4.
+
+5. Open Foreign Policy: As the fuel import might be from foreign sources, there may be some relevance to this axis. The fuel prices may be affected by the relations with fuel-exporting countries. Relevance score here could be around 0.3.
+
+6. Restrictive Financial Policy: This could be relevant if the platform's implementation involves significant government spending or changes to budgets, taxes, etc. However, given the limited information, it's speculated to be not highly relevant, with a tentative score of 0.2.
+
+7. Liberal Society: If we stretch, we could potentially consider this axis from the perspective of information transparency allowing people to make freer choices in terms of fuel purchases. However, it doesn't directly speak to personal lifestyle freedom, privacy protection, etc., so it only has a relevance score of 0.1.
+
+8. Restrictive Immigration Policy: This axis seems to be the least relevant to the issue of establishing an online platform for fuel price comparison in Switzerland. It does not deal with matters of foreign integration, immigration restrictions, etc., the relevance score would be around 0.
