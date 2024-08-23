@@ -1,0 +1,21 @@
+[1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, REASK ERICH and FABIAN,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1,
+1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0,
+1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0,
+1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0]
+
+%76.271
+
+FALSE POSITIVE: 28
+FALSE NEGATIVE: -
+
+KNN Incorrect: 0
+
+REASONS
+Scores on Expanded Welfare State axis deemed less important, check out the plots of 5 to 8 and 5 to 7,
+Hard to get the middle value individuals leanings
+Only people who are very deep into Axis 7 voted yes ie. might need to state current state of affairs or how extreme the measures are for the general society
+
+
+-SECOND LINE STARTS FROM CELINE WEBER, CEDRIC WERMUTH IGNORED-

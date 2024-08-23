@@ -1,0 +1,18 @@
+[0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 
+0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1,
+1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0,
+1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, re-ask-these-5,
+1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1,
+0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+
+%64.91
+
+FALSE NEGATIVE: 24
+FALSE POSITIVE: 16
+
+KNN INCORRECT: 6, a little less powerful than normal as close people are also not matched well
+
+
+REASONS
+High Law&Order -> general protection of society at the expense of personal privacy so should vote no 
+Two axes are not completely enough to depict the clusters here, the found logic only works one side
