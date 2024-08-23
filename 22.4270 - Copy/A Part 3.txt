@@ -1,0 +1,145 @@
+DO NOT CREATE IMAGE, GIVE OUT VOTING RECOMMENDATIONS FOR THE 20 PEOPLE DESCRIBED BELOW AS,
+
+1. The person is at age 33 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.21 on Law and Order. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.12 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+2. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 1.88 on Restrictive Financial Policy. The person scored 3.38 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 65 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.12 on Law and Order. The person scored 1.94 on Restrictive Financial Policy. The person scored 3.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+4. The person is at age 48 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 1.88 on Restrictive Financial Policy. The person scored 3.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+5. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.67 on Law and Order. The person scored 3.81 on Restrictive Financial Policy. The person scored 2.0 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+6. The person is at age 32 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 1.88 on Restrictive Financial Policy. The person scored 3.62 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+7. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.88 on Law and Order. The person scored 2.04 on Restrictive Financial Policy. The person scored 4.62 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+8. The person is at age 47 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 1.98 on Restrictive Financial Policy. The person scored 3.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+9. The person is at age 61 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.75 on Law and Order. The person scored 2.94 on Restrictive Financial Policy. The person scored 4.25 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+10. The person is at age 40 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.42 on Law and Order. The person scored 1.85 on Restrictive Financial Policy. The person scored 3.38 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+11. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.67 on Law and Order. The person scored 3.33 on Restrictive Financial Policy. The person scored 3.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+12. The person is at age 36 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.42 on Law and Order. The person scored 1.98 on Restrictive Financial Policy. The person scored 4.38 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+13. The person is at age 62 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.79 on Law and Order. The person scored 2.25 on Restrictive Financial Policy. The person scored 4.12 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+14. The person is at age 58 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.83 on Law and Order. The person scored 3.5 on Restrictive Financial Policy. The person scored 1.38 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+15. The person is at age 59 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.75 on Law and Order. The person scored 2.73 on Restrictive Financial Policy. The person scored 1.0 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+16. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.54 on Law and Order. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+17. The person is at age 54 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.0 on Law and Order. The person scored 3.19 on Restrictive Financial Policy. The person scored 4.88 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+18. The person is at age 64 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 1.81 on Restrictive Financial Policy. The person scored 3.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+19. The person is at age 44 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.62 on Law and Order. The person scored 2.9 on Restrictive Financial Policy. The person scored 4.88 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+20. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.92 on Law and Order. The person scored 3.19 on Restrictive Financial Policy. The person scored 4.88 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+Here are the voting recommendations for the 20 people based on their measurements in Law and Order, Restrictive Financial Policy, and Open Foreign Policy, taking into account the relevance of each axis to the referendum's focus on security, defense, and technological innovation:
+
+1. **Age 33** - Strong support for Open Foreign Policy suggests alignment with the referendum's international cooperation goals. **The person should vote yes.**
+
+2. **Age 45** - Moderate to strong support for Open Foreign Policy with low emphasis on Law and Order aligns with the referendum's focus on external collaboration. **The person should vote yes.**
+
+3. **Age 65** - Moderate support across all scales, especially Open Foreign Policy, indicates a good fit with the referendum's objectives. **The person should vote yes.**
+
+4. **Age 48** - Similar to the previous, moderate to strong support for Open Foreign Policy aligns well with the referendum's international focus. **The person should vote yes.**
+
+5. **Age 60** - Higher scores in Law and Order and Restrictive Financial Policy suggest a preference for more controlled and secure policies, which might slightly misalign with the innovative aspect of the referendum. **The person should vote no.**
+
+6. **Age 32** - Moderate support for Restrictive Financial Policy with a strong inclination towards Open Foreign Policy suggests alignment with the referendum's goals. **The person should vote yes.**
+
+7. **Age 51** - Strong support for Open Foreign Policy with moderate scores in the other axes indicates good alignment with the referendum’s goals of fostering innovation through international collaboration. **The person should vote yes.**
+
+8. **Age 47** - Moderate to strong inclination towards Open Foreign Policy, despite lower support in Law and Order, aligns with the referendum's focus. **The person should vote yes.**
+
+9. **Age 61** - Moderate to strong scores, especially in Open Foreign Policy, suggest alignment with the referendum’s objectives. **The person should vote yes.**
+
+10. **Age 40** - Stronger inclination towards Open Foreign Policy and lower emphasis on Law and Order align well with the referendum's goals. **The person should vote yes.**
+
+11. **Age 60** - Higher scores across the board with a significant inclination towards Open Foreign Policy suggest a balance but might indicate slight misalignment due to higher Restrictive Financial Policy. **The person should vote no.**
+
+12. **Age 36** - Strong support for Open Foreign Policy and lower emphasis on Law and Order align well with the referendum's focus on international cooperation. **The person should vote yes.**
+
+13. **Age 62** - Strong support for Open Foreign Policy with lower scores in Law and Order and Restrictive Financial Policy aligns well with the referendum's international focus. **The person should vote yes.**
+
+14. **Age 58** - Moderate scores across the scales, especially lower in Open Foreign Policy, suggest a potential misalignment with the referendum's innovative and international scope. **The person should vote no.**
+
+15. **Age 59** - Strong support for Law and Order with less emphasis on Open Foreign Policy suggests a misalignment with the referendum’s goals. **The person should vote no.**
+
+16. **Age 39** - Strong support for Open Foreign Policy and moderate scores in the other axes suggest good alignment with the referendum’s focus. **The person should vote yes.**
+
+17. **Age 54** - Moderate scores across the scales with a strong inclination towards Open Foreign Policy indicate alignment with the referendum's objectives. **The person should vote yes.**
+
+18. **Age 64** - Moderate support in Restrictive Financial Policy and strong in Open Foreign Policy, despite lower Law and Order, aligns well with the referendum's focus. **The person should vote yes.**
+
+19. **Age 44** - Strong inclination towards Open Foreign Policy with lower emphasis on Law and Order suggests good fit with the referendum’s goals. **The person should vote yes.**
+
+20. **Age 51** - Strong inclination towards Open Foreign Policy and moderate scores in the other scales suggest a good alignment with the referendum's focus on international cooperation and innovation. **The person should vote yes.**
+
+These recommendations consider each person’s alignment with the key aspects of the referendum based on their scores, highlighting the most relevant factors based on the referendum's content and the relative importance of each axis.

@@ -1,0 +1,19 @@
+[1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1,
+0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1,
+-REDO FIRST 7 HERE STARTING FROM GRABER, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+
+%86.7260
+
+FALSE POSITIVES: 10
+FALSE NEGATIVES: 5
+
+KNN Incorrects: 2/2 full agreement
+
+REASONS
+Liberal Economy is usually understood as being Liberal (ie. open to everything in economy) that is a note for general
+If Expanded Welfare State is a little bit low this is understood as a 'no' signal by the agent
+Katja Christ and Laurent Wehrli the profiles are very similar the suggested votes are different ie. incoherency
+In order to vote 'yes' being high on both scales is required, middle to high values of Expanded Welfare State is not enough so it seems

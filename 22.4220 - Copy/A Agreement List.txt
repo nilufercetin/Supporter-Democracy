@@ -1,0 +1,17 @@
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 
+0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 1]
+
+%8.13
+
+KNN Incorrects: 4/4 (full agreement with the correct ones in here proves that the actual logic is exact opposite)
+
+REASONS
+Although in meaning the found cleavages can be irrelevant, as a result of correlations they still split the individuals well enough
+The proposed system prevents fraudulent transactions in summary and the agent perceives that this is in support of high Law and Order
+Also a the agent thinks a low scored individual in Liberal Society might support the arguments as they tend to ignore reduced privacy
+Maybe instead of having Liberal Society, Liberal Economy could have been better here also Law and Order is always misperceived

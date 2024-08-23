@@ -1,0 +1,14 @@
+[1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 
+0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 
+1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 
+1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 
+NEEDS REDO,
+1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1,
+1, 1, 1, 0]
+
+%57.692
+
+REASONS
+KNN also performed poorly meaning that the given axes does not separate the people well enough which is seen on plots
+The agent got the general tendency correctly ie. High Liberal Economy + Restrictive Finances coupled with Low Expanded Welfare State opposes the idea
+But there are fractions on both ends, also how and why does restrictive finances contribute well?

@@ -1,0 +1,17 @@
+[0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, KATJA IS MISSING HERE EITHER DO OR DELETE,
+1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0,
+1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1]
+
+%66.667
+
+FP AND FN MORE OR LESS ON SAME BALLPARK
+
+KNN Incorrects: 10
+
+REASONS
+In actual data the tendency to vote 'Yes' in general with increase in first 2 cleavages can be predicted but there is no clear boundary to predict a 'No' vote
+KNN also performed worse
+Agent thinks that a high Open Foreign Policy should promote a 'Yes' vote which is non-sense to me

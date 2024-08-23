@@ -1,0 +1,22 @@
+DO NOT CREATE IMAGE, GIVE OUT VOTING RECOMMENDATIONS FOR THE 3 PEOPLE DESCRIBED BELOW AS,
+
+
+2. The person is at age 57 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.58 on Law and Order. The person scored 3.94 on Restrictive Financial Policy. The person scored 1.5 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.46 on Law and Order. The person scored 1.73 on Restrictive Financial Policy. The person scored 4.25 on Open Foreign Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+Based on the provided measurements, here are the voting recommendations for each person:
+
+
+
+2. **Person at age 57**: The higher scores in Law and Order and Restrictive Financial Policy indicate a preference for stronger security measures and controlled financial policies, which align with parts of the referendum. However, the low score in Open Foreign Policy suggests some reservations about increasing international cooperation, which is also a component of the referendum. Given the low score in an important area related to the referendum, and considering the greater weight of Law and Order and Restrictive Financial Policy, **the person should vote yes**, as the primary concerns are more aligned with the referendum's intent.
+
+3. **Person at age 45**: With very low scores in Law and Order and Restrictive Financial Policy but a high score in Open Foreign Policy, this person seems to prefer less emphasis on stringent security measures and financial restrictions but is very supportive of international engagement. Given that the referendum also aims to enhance Switzerland's independence from certain external partners while boosting security and technology, this could contradict the person's high preference for open foreign policies. Since their highest priority conflicts with key aspects of the referendum, **the person should vote no**.
+
+These recommendations consider the scores on each axis relative to the content and aims of the referendum, providing a rationale based on the individual’s alignment with the specific components of the referendum's proposals.

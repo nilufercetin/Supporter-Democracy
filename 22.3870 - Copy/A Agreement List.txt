@@ -1,0 +1,19 @@
+[0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 
+0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+%84.483
+
+FALSE POSITIVE: 7
+FALSE NEGATIVE: 11
+
+KNN Incorrect: 3
+
+REASONS
+3 axes sometimes made it harder to correctly use all the given information, used Liberal Economy and Law and Order as it seems to fit so there are incoherencies
+Ofcourse a bias to provide 'yes' as answer, that is why can give moderate to high instead of high or lower score instead of just low
+Some values again got udnerstood wrong just like GPT3.5
+At the expense of shorter answers the decision logic becomes comparing first two cleavage scores

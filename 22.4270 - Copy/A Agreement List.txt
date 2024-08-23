@@ -1,0 +1,17 @@
+[1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0,
+1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+0, 0]
+
+%77.049
+
+FALSE POSITIVES: 18
+FALSE NEGATIVES: 10
+
+REASONS
+It is inferred that the newly created agency will be international which I did not understand how it is inferred but because of correlation actually high Open Foreign Policy individuals voted 'Yes'
+In reality High Law and Order and High Restrictive Financial Policy has voted 'No' but this may be because of shear one of the axes
+Three axes got the agent to mess up sometimes it is inconsistent how the decision changes for each axis

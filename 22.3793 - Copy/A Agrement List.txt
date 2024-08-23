@@ -1,0 +1,17 @@
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0,
+1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+
+%90.91
+
+FALSE POSITIVES: 6
+FALSE NEGATIVES: 5
+
+KNN Incorrect: 9 (most in agreement, one of the best performances)
+
+REASONS
+Middle value problems, not knowing the decision boundary, not paying strong attention to relevancies (might not have affected the result)
+Philipp Matthias and Pierre Andre incoherent recommendations with respect to one another
