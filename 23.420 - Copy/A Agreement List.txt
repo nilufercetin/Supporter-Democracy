@@ -1,0 +1,14 @@
+[1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0,
+0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0,
+1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1,
+0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+
+%23.077
+
+REASONS
+Agent takes a high Law and Order (authoritative/protectionism) as promoting 'Yes' vote 
+and Liberal Society to be more on the freedom perspective which indicates opposition to what the referendum is doing
+In reality exact opposite happens
+6 of KNN incorrects agree with the correct guesses here which shows the opposite direction but the agreement is not too much because decision boundary is very extreme 

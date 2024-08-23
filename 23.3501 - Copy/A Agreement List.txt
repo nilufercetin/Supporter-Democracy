@@ -1,0 +1,19 @@
+[0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1]
+
+%90.654
+
+FALSE POSITIVE: 5
+FALSE NEGATIVE: 5
+
+KNN Incorrect: 2 but it had 5 incorrect
+
+REASONS
+Middle value problems in general but there are some incoherent assumptions between predictions for different people
+For eg. Alex Farinelli/Christian Lohr and Andreas Gafner/Benjamin Giezendanner
+The agent also does not give much importance to the relevancy of the axes, person high on 1st low on 2nd should vote 'Yes' and vice versa but it gives exact opposite sometimes
+Incoherency

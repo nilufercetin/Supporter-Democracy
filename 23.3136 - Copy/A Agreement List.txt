@@ -1,0 +1,17 @@
+[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0,
+0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0,
+0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0,
+0, 1, 1, 1, 1]
+
+%20.8
+
+
+
+REASONS
+The logic by the agent is that high Law and Order coupled with low Liberal Society and Open Foreign Policy should be the reasons to vote 'Yes'
+For middle valued individuals the logic is not always coherent by the agent
+In reality, the logic is usually the exact opposite but for middle value individuals the decision boundaries are not very clear
+Interesting that KNN got this right

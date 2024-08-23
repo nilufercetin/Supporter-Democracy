@@ -1,0 +1,17 @@
+[0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1,
+0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1,
+1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+%84.297
+
+FALSE POSITIVE: 19
+FALSE NEGATIVE: 
+
+KNN Incorrects: 2 incorrect by KNN one of them agree
+
+REASONS
+In reality, around 3 is a very good decision-boundary but the agent here is biased towards favoring 'Yes'
+Maybe it is because the agent cannot get a good grasp of what moderate or low values are

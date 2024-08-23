@@ -1,0 +1,18 @@
+[0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+
+%95.833
+
+FALSE POSITIVES: 
+FALSE NEGATIVES: 5
+
+KNN Incorrect: only 1 incorrect but they do not coincide
+
+REASONS
+Agent suggested voting 'No' a little bit easier this time but there are slightly more 'Yes' voters
+In general middle value problems but I am not sure if this referendum can directly be attributed to Restrictive Immigration Policy or whether the performance is high because of the correlations
+

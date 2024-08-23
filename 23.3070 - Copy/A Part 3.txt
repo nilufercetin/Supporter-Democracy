@@ -1,0 +1,145 @@
+DO NOT CREATE IMAGE, PROVIDE VOTING RECOMMENDATIONS FOR THE 20 PEOPLE WHO ARE DESCRIBED BELOW AS,
+
+1. The person is at age 33 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.75 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+2. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.42 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 5.0 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 65 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.7 on Liberal Economy. The person scored 1.94 on Restrictive Financial Policy. The person scored 4.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+4. The person is at age 48 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.49 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+5. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.89 on Liberal Economy. The person scored 3.81 on Restrictive Financial Policy. The person scored 1.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+6. The person is at age 32 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.51 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.6 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+7. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.81 on Liberal Economy. The person scored 2.04 on Restrictive Financial Policy. The person scored 4.43 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+8. The person is at age 47 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.63 on Liberal Economy. The person scored 1.98 on Restrictive Financial Policy. The person scored 4.83 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+9. The person is at age 61 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.12 on Liberal Economy. The person scored 2.94 on Restrictive Financial Policy. The person scored 3.2 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+10. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.68 on Liberal Economy. The person scored 3.69 on Restrictive Financial Policy. The person scored 1.6 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+11. The person is at age 40 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.56 on Liberal Economy. The person scored 1.85 on Restrictive Financial Policy. The person scored 4.73 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+12. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.56 on Liberal Economy. The person scored 3.33 on Restrictive Financial Policy. The person scored 2.67 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+13. The person is at age 36 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.68 on Liberal Economy. The person scored 1.98 on Restrictive Financial Policy. The person scored 4.93 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+14. The person is at age 62 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.58 on Liberal Economy. The person scored 2.25 on Restrictive Financial Policy. The person scored 4.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+15. The person is at age 58 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.55 on Liberal Economy. The person scored 3.5 on Restrictive Financial Policy. The person scored 2.4 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+16. The person is at age 59 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.86 on Liberal Economy. The person scored 2.73 on Restrictive Financial Policy. The person scored 3.83 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+17. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.83 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+18. The person is at age 54 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.02 on Liberal Economy. The person scored 3.19 on Restrictive Financial Policy. The person scored 2.4 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+19. The person is at age 64 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.47 on Liberal Economy. The person scored 1.81 on Restrictive Financial Policy. The person scored 4.9 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+20. The person is at age 44 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.88 on Liberal Economy. The person scored 2.9 on Restrictive Financial Policy. The person scored 2.97 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+Given the measurements and the axis relevance to the referendum, here are the voting recommendations for each person:
+
+1. **Age 33**: Strong support for the Expanded Welfare State and low support for a Liberal Economy aligns with advocating for state intervention and welfare. **The person should vote yes.**
+
+2. **Age 45**: Very high support for Expanded Welfare State and low support for Liberal Economy suggest a preference for significant state involvement and welfare provisions. **The person should vote yes.**
+
+3. **Age 65**: Similar to others, strong support for Expanded Welfare State and minimal support for Liberal Economy indicates a preference for substantial state-led services. **The person should vote yes.**
+
+4. **Age 48**: High support for Expanded Welfare State and very low support for Liberal Economy suggests a strong preference for state-driven welfare and services. **The person should vote yes.**
+
+5. **Age 60**: High scores on Liberal Economy and lower scores on Expanded Welfare State suggest a preference for market-driven policies and less state welfare. **The person should vote no.**
+
+6. **Age 32**: High support for Expanded Welfare State and low support for Liberal Economy indicates a strong preference for welfare and state intervention. **The person should vote yes.**
+
+7. **Age 51**: High score on Expanded Welfare State and low score on Liberal Economy suggests a preference for extensive state welfare and services. **The person should vote yes.**
+
+8. **Age 47**: Very high support for Expanded Welfare State and low support for Liberal Economy suggests a strong preference for state-driven welfare. **The person should vote yes.**
+
+9. **Age 61**: Moderate scores across all axes with the highest in Expanded Welfare State, suggesting some balance but with a leaning towards welfare. **The person should vote yes.**
+
+10. **Age 51**: High scores on Liberal Economy and lower on Expanded Welfare State suggest a preference for market-driven approaches over state welfare. **The person should vote no.**
+
+11. **Age 40**: Very high support for Expanded Welfare State and low support for Liberal Economy, favoring extensive state welfare. **The person should vote yes.**
+
+12. **Age 60**: Moderate scores with the highest on Liberal Economy, suggesting a preference for market efficiency over extensive state welfare. **The person should vote no.**
+
+13. **Age 36**: High support for Expanded Welfare State with moderate support for Liberal Economy, leaning towards state welfare. **The person should vote yes.**
+
+14. **Age 62**: High score on Expanded Welfare State with low support for Liberal Economy, indicating a strong preference for state welfare and intervention. **The person should vote yes.**
+
+15. **Age 58**: Moderate scores with a slight lean towards Liberal Economy, suggesting some preference for market-driven policies. **The person should vote no.**
+
+16. **Age 59**: High scores on Liberal Economy and Expanded Welfare State suggest a balance but with a slight preference towards market efficiency. **The person should vote no.**
+
+17. **Age 39**: High score on Expanded Welfare State and very low on Liberal Economy, indicating strong preference for state welfare. **The person should vote yes.**
+
+18. **Age 54**: Moderate scores with a balance towards Liberal Economy, indicating a slight preference for market policies. **The person should vote no.**
+
+19. **Age 64**: Very high support for Expanded Welfare State and low support for Liberal Economy, strongly favoring state intervention. **The person should vote yes.**
+
+20. **Age 44**: Moderate scores across all axes with a slight lean towards Expanded Welfare State, suggesting some balance but with a preference for welfare. **The person should vote yes.**
+
+These recommendations are based on aligning each person's scores with the referendum's focus on the relationship between public and private sector roles and funding, as described in the axis descriptions and the referendum's summary.

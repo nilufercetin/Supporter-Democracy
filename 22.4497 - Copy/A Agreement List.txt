@@ -1,0 +1,15 @@
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 
+0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1,
+1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1,
+0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0]
+
+%67.826
+
+INCORRECT DECISIONS BOTH IN NEGATIVE AND POSITIVE SIDE
+
+REASONS
+In reality (left-wing) people who are high in Open Foreign Policy, low in Restrictive Financial Policy and Liberal Economy voted 'Yes'
+This can only be predicted by low scores in Liberal Economy logically but also low Liberal Economy predicts a 'No' vote by the agent (Sibel Arslan)
+Agent attributes Open Foreign Policy to a 'Yes' vote which in reality holds true and increases performance

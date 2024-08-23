@@ -1,0 +1,21 @@
+[0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1,
+1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0,
+1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1,
+1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1,
+0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0,
+1, 1, 0]
+
+%78.862
+
+FALSE POSITIVES: 26
+FALSE NEGATIVES: -
+
+KNN Incorrects: 2
+
+REASONS
+In reality voters with high Restrictive Financial Policy refused to vote 'Yes' even if they like taxe
+This is probably because Environment aspect weighted more but there is a conflict in data as no one is perfect candidate for voting 'Yes' or 'No'
+Also the agent is biased slightly towards a 'Yes' vote (Benjamin Roduit, Nicolo Paganini), the actual decision boundary is not perfectly in the middle but provides more 'No's probably reason for suffering performance
+Even with low concern about Environment it is perceived as 'moderate' by the agent for example
+This also examplifies that right-wing people introduce themselves as Environmentally Aware and Friendly such that they get high values but in reality they do not vote up to that

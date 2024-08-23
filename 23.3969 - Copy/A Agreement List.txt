@@ -1,0 +1,13 @@
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+
+%11.711
+
+KNN Incorrects: 2 of incorrects are predicted correctly by the agent
+
+REASONS
+High Law and Order and low Open Foreign Policy voters should have voten 'Yes' but in reality it is the other way around
