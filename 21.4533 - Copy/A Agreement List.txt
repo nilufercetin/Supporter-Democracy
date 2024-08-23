@@ -1,0 +1,13 @@
+[1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1,
+1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0,
+0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1,
+0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+
+%55.26
+
+REASONS
+Suggestions got incoherent during some prompts, There are no clear clusters in 2D as well, incoherency in the sense that increasing number of laws does not mean enhancing these
+Complicated since it is re-enaction of a law with which people may play fake against the state
+ie. number of laws increase, there are more regulations but the new regulations may be used inline with corruption

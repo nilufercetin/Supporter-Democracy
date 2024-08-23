@@ -1,0 +1,142 @@
+1. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.33 on Law and Order. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+2. The person is at age 42 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 5.0 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 41 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.42 on Law and Order. The person scored 1.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+4. The person is at age 61 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.21 on Law and Order. The person scored 3.2 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+5. The person is at age 42 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.58 on Law and Order. The person scored 1.4 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+6. The person is at age 41 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.42 on Law and Order. The person scored 4.6 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+7. The person is at age 64 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.17 on Law and Order. The person scored 3.5 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+8. The person is at age 54 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.67 on Law and Order. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+9. The person is at age 63 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+10. The person is at age 36 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.75 on Law and Order. The person scored 2.87 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+11. The person is at age 48 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.71 on Law and Order. The person scored 1.97 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+12. The person is at age 47 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 4.9 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+13. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.12 on Law and Order. The person scored 1.4 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+14. The person is at age 43 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.46 on Law and Order. The person scored 5.0 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+15. The person is at age 63 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.58 on Law and Order. The person scored 4.6 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+16. The person is at age 42 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.25 on Law and Order. The person scored 1.0 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+17. The person is at age 33 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.21 on Law and Order. The person scored 4.7 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+18. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 5.0 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+19. The person is at age 65 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.12 on Law and Order. The person scored 4.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+20. The person is at age 48 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.25 on Law and Order. The person scored 4.8 on Expanded Welfare State. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+
+Certainly! Here are the voting recommendations based on the measurements provided for each person:
+
+1. **Age 45**: With a low score on Law and Order (1.33) and a high score on Expanded Welfare State (4.7), the person leans towards policies supporting social welfare over strict law enforcement. **The person should vote 'yes'** to support victims of crimes committed abroad, aligning with a broader, welfare-focused approach.
+
+2. **Age 42**: Scoring very low on Law and Order (1.25) and extremely high on Expanded Welfare State (5.0), this person likely values extensive state support. **The person should vote 'yes'** as the referendum could be seen as an extension of welfare to victims.
+
+3. **Age 41**: With a high score on Law and Order (4.42) and lower on Expanded Welfare State (1.7), this person favors strict law enforcement and minimal welfare state. **The person should vote 'no'** as the amendment might imply increased state intervention they typically oppose.
+
+4. **Age 61**: Scoring moderately high on both scales (3.21 on Law and Order and 3.2 on Expanded Welfare State), this person has balanced views but leans slightly towards law enforcement. **The person should vote 'yes'** to enhance protection for crime victims.
+
+5. **Age 42**: High on Law and Order (3.58) and low on Expanded Welfare State (1.4), the person prefers strict law enforcement and limited welfare. **The person should vote 'no'** due to concerns about the cost implications of expanding welfare.
+
+6. **Age 41**: Very low on Law and Order (1.42) and high on Expanded Welfare State (4.6), this individual supports extensive welfare and minimal law enforcement interventions. **The person should vote 'yes'** as it aligns with expanding welfare benefits.
+
+7. **Age 64**: Moderately high on both scales (3.17 on Law and Order and 3.5 on Expanded Welfare State), suggesting a balance but a slight preference for welfare state expansion. **The person should vote 'yes'** to support additional welfare mechanisms through LAVI.
+
+8. **Age 54**: Low on Law and Order (1.67) and high on Expanded Welfare State (4.7), showing a strong preference for welfare over strict law enforcement. **The person should vote 'yes'** to support the welfare-oriented changes proposed.
+
+9. **Age 63**: Very low on Law and Order (1.25) and high on Expanded Welfare State (4.7), this person is likely to support policies that increase welfare provisions. **The person should vote 'yes'** to reflect their welfare-oriented perspective.
+
+10. **Age 36**: Moderately low on Law and Order (1.75) and moderate on Expanded Welfare State (2.87), suggesting a preference for a moderate expansion of welfare policies but not at the expense of substantial state intervention. **The person should vote 'no'** as they may see the changes as an unnecessary expansion of state responsibilities.
+
+11. **Age 48**: Moderately low on Law and Order (2.71) and similar on Expanded Welfare State (1.97), indicating mixed feelings but overall a slight disinclination towards heavy state intervention. **The person should vote 'no'**, likely viewing the amendment as an overreach.
+
+12. **Age 47**: Very low on Law and Order (1.25) and extremely high on Expanded Welfare State (4.9), indicating a strong preference for expanding welfare services. **The person should vote 'yes'** as the referendum aligns with their welfare priorities.
+
+13. **Age 39**: High on Law and Order (4.12) and very low on Expanded Welfare State (1.4), indicating a preference for strict law enforcement and minimal state welfare. **The person should vote 'no'**, likely viewing the changes as unnecessary state expansion.
+
+14. **Age 43**: Low on Law and Order (1.46) and very high on Expanded Welfare State (5.0), this person strongly supports expanding welfare. **The person should vote 'yes'** to align with their strong welfare support views.
+
+15. **Age 63**: Very low on Law and Order (1.58) and high on Expanded Welfare State (4.6), this individual likely supports a broad, inclusive approach to state welfare. **The person should vote 'yes'** to align with their welfare-oriented perspective.
+
+16. **Age 42**: High on Law and Order (4.25) and very low on Expanded Welfare State (1.0), indicating a strong preference for law enforcement and minimal welfare intervention. **The person should vote 'no'** as they likely view the amendment as an unwarranted extension of state responsibility.
+
+17. **Age 33**: Very low on Law and Order (1.21) and high on Expanded Welfare State (4.7), suggesting strong support for welfare expansions and minimal law enforcement interventions. **The person should vote 'yes'** as they are likely to see the referendum as a way to extend welfare protections.
+
+18. **Age 45**: Very low on Law and Order (1.25) and extremely high on Expanded Welfare State (5.0), indicating a strong preference for broad welfare measures over strict law enforcement. **The person should vote 'yes'** to support the proposed amendments aligning with their welfare priorities.
+
+19. **Age 65**: Very low on Law and Order (1.12) and very high on Expanded Welfare State (4.8), reflecting a strong inclination towards welfare services over law enforcement measures. **The person should vote 'yes'**, seeing the amendment as beneficial for expanding victim support, aligning with their welfare-centric values.
+
+20. **Age 48**: Very low on Law and Order (1.25) and high on Expanded Welfare State (4.8), indicating a strong preference for welfare provisions over stringent law enforcement. **The person should vote 'yes'** to support the expansion of victim compensation, which is consistent with their values on welfare state expansion.

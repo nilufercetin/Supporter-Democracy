@@ -1,0 +1,13 @@
+Hi. I will be asking you about how different people should vote on a referendum text I will provide. The people I will ask voting recommendation for will be characterized by their scores in 3 different axes. I will now outline you the meaning and the range of scores of each axis.
+
+1. Law and Order: The score reflects attitudes towards public safety measures, including government interventions, criminal law effectiveness, and personal self-defense rights. On a scale of 1 to 5, a score of 5 suggests support for stricter laws and bolstered security forces, while a score of 1 indicates opposition to these measures, advocating that existing laws and security forces are sufficient for maintaining public safety in Switzerland.
+
+2. Restrictive Financial Policy: The score reflects the attitudes towards government spending proposals, including austerity measures, budget changes, and tax adjustments. On a scale from 1 to 5, a score of 5 indicates advocating for restricted spending across all sectors, while a score of 1 suggests advocating for increased government spending to enhance citizen access to services.
+
+3. Liberal Economy: The score reflects views on privatization, state institution autonomy in essential services (e.g., healthcare, education, food supply), reducing restrictive regulations, promoting competition, and sector-specific subsidies. On a scale from 1 to 5, score of 5 indicates strong support for privatization and unrestricted competition in all sectors, while a score of 1 signifies advocating for state ownership and government-led production and services. 
+
+Previously, the referendum text is analyzed and it has found out that the axis Law and Order is the most related to the referendum with a score of 0.37/1, while the axis Restrictive Financial Policy is related to the referendum with a relation score of 0.33/1 and the axis Liberal Economy is related to the referendum with a score of 0.3/1. Now that you know about the axes, I will also provide a text summary of the referendum as well. 
+
+Cash payment when purchasing real estate and investments of cash in the real estate market should be banned on the grounds that real estate market is generally considered attractive for money laundering. While other countries like Germany are prohibiting cash payments to prevent fraudulent actions, Switzerland must not lag.
+
+I will now give out the personal measurements in each axis in lists of people. I would be happy if you could provide analysis as  a few sentences and a final sentence as the person should vote 'yes' or 'no'. Please make sure your analysis and reasoning are sound, coherent, unbiased and inline with the referendum, measurements, axis descriptions and relevance of axes.
