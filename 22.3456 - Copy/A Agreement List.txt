@@ -1,0 +1,19 @@
+[0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1,
+1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1,
+0, 1, 1] 
+
+%79.675
+
+FALSE POSITIVE: 25
+FALSE NEGATIVE: 
+
+KNN Incorrects: 4
+
+REASONS
+No clear boundary ie. the Law and Order score needs to be really low to vote 'yes' for the same Open Foreign Policy scores
+The value of Law and Order is not paid too much attention by the agent, it is changed to a 'no' vote only if the value is too high probably
+Part 2 Person 5 what the fuck is this arguments?

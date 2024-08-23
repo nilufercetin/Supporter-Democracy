@@ -1,0 +1,143 @@
+1. The person is at age 33 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.75 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.44 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+2. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.42 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.92 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 65 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.7 on Liberal Economy. The person scored 1.94 on Restrictive Financial Policy. The person scored 4.85 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+4. The person is at age 48 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.49 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 5.0 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+5. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.89 on Liberal Economy. The person scored 3.81 on Restrictive Financial Policy. The person scored 1.23 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+6. The person is at age 32 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.51 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 5.0 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+7. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.81 on Liberal Economy. The person scored 2.04 on Restrictive Financial Policy. The person scored 4.69 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+8. The person is at age 47 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.63 on Liberal Economy. The person scored 1.98 on Restrictive Financial Policy. The person scored 4.95 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+9. The person is at age 61 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.12 on Liberal Economy. The person scored 2.94 on Restrictive Financial Policy. The person scored 2.23 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+10. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.68 on Liberal Economy. The person scored 3.69 on Restrictive Financial Policy. The person scored 1.15 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+11. The person is at age 40 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.56 on Liberal Economy. The person scored 1.85 on Restrictive Financial Policy. The person scored 5.0 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+12. The person is at age 60 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.56 on Liberal Economy. The person scored 3.33 on Restrictive Financial Policy. The person scored 3.41 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+13. The person is at age 36 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.68 on Liberal Economy. The person scored 1.98 on Restrictive Financial Policy. The person scored 4.77 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+14. The person is at age 62 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.58 on Liberal Economy. The person scored 2.25 on Restrictive Financial Policy. The person scored 4.85 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+15. The person is at age 58 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.55 on Liberal Economy. The person scored 3.5 on Restrictive Financial Policy. The person scored 1.87 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+16. The person is at age 59 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.86 on Liberal Economy. The person scored 2.73 on Restrictive Financial Policy. The person scored 1.64 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+17. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.83 on Liberal Economy. The person scored 1.88 on Restrictive Financial Policy. The person scored 4.64 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+18. The person is at age 64 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.47 on Liberal Economy. The person scored 1.81 on Restrictive Financial Policy. The person scored 5.0 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+19. The person is at age 44 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.88 on Liberal Economy. The person scored 2.9 on Restrictive Financial Policy. The person scored 4.56 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+20. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.23 on Liberal Economy. The person scored 3.19 on Restrictive Financial Policy. The person scored 4.21 on Extended Environmental Protection. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+Here are the voting recommendations for the 20 people based on their values on the scales of Liberal Economy, Restrictive Financial Policy, and Extended Environmental Protection in relation to the upcoming referendum on agricultural policies:
+
+1. **Person at age 33**: Strong preference for environmental protection and less inclination towards liberal economic policies suggest voting to maintain current environmental standards. **The person should vote no**.
+
+2. **Person at age 45**: Very high value on environmental protection and low on liberal economic policies suggests a preference for keeping current environmental regulations. **The person should vote no**.
+
+3. **Person at age 65**: Similar to others with high environmental scores, the priority given to environmental protection indicates a vote against reversing the policies. **The person should vote no**.
+
+4. **Person at age 48**: Maximum emphasis on environmental protection with minimal support for liberal economy measures also indicates a strong preference for maintaining current policies. **The person should vote no**.
+
+5. **Person at age 60**: High scores on liberal economy and restrictive financial policy with low environmental concern suggest a preference for economic benefits over environmental regulations. **The person should vote yes**.
+
+6. **Person at age 32**: Like others with high environmental scores, there is a clear preference for maintaining environmental protections. **The person should vote no**.
+
+7. **Person at age 51**: Strong environmental emphasis with less focus on liberal economic policies suggests maintaining current environmental standards. **The person should vote no**.
+
+8. **Person at age 47**: Strong environmental values with lower economic liberalism also suggest maintaining the current environmental protections. **The person should vote no**.
+
+9. **Person at age 61**: Balanced scores with a moderate lean towards environmental protection suggest a slight preference for current policies. **The person should vote no**.
+
+10. **Person at age 51 (second entry)**: Strong liberal economy and restrictive financial policy values with very low environmental concern suggest a preference for economic optimization, potentially reversing current measures. **The person should vote yes**.
+
+11. **Person at age 40**: Strong environmental protection values clearly indicate a preference for maintaining current environmental standards. **The person should vote no**.
+
+12. **Person at age 60 (second entry)**: Balanced scores but with a moderate emphasis on environmental protection suggest a lean towards maintaining current policies. **The person should vote no**.
+
+13. **Person at age 36**: Strong environmental focus and lower economic liberal values indicate a preference for keeping the current environmental standards. **The person should vote no**.
+
+14. **Person at age 62**: High environmental scores suggest maintaining current environmental regulations. **The person should vote no**.
+
+15. **Person at age 58**: Moderate liberal economy and financial policy scores with higher environmental concern suggest a preference for maintaining current environmental measures. **The person should vote no**.
+
+16. **Person at age 59**: High liberal economy score with moderate restrictive financial and low environmental scores suggest a preference for reversing the policies to favor economic interests. **The person should vote yes**.
+
+17. **Person at age 39**: Strong environmental focus suggests maintaining current environmental standards. **The person should vote no**.
+
+18. **Person at age 64**: Maximum environmental score with very low liberal economy and financial policy scores strongly suggest maintaining environmental protections. **The person should vote no**.
+
+19. **Person at age 44**: High environmental concern with moderate economic and financial values suggest a preference for current environmental measures. **The person should vote no**.
+
+20. **Person at age 51 (third entry)**: Moderate scores in all areas but a higher score in environmental protection suggests a preference for maintaining current standards. **The person should vote no**.
+
+These recommendations consider each person's values relative to the referendum's focus on adjusting agricultural policies that impact environmental and economic factors. The advice aligns individual preferences with likely outcomes from the referendum's measures.

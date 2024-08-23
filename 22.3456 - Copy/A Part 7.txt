@@ -1,0 +1,24 @@
+1. The person is at age 52 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.25 on Open Foreign Policy. The person scored 3.71 on Law and Order. The person scored 3.06 on Restrictive Financial Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+2. The person is at age 57 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.5 on Open Foreign Policy. The person scored 3.58 on Law and Order. The person scored 3.94 on Restrictive Financial Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+
+
+3. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.25 on Open Foreign Policy. The person scored 1.46 on Law and Order. The person scored 1.73 on Restrictive Financial Policy. 
+Please keep in mind what is indicated by extreme measurements in each scale, extreme measurements being 1 and 5.
+ 
+
+Here are the voting recommendations based on the measurements provided for each individual:
+
+1. **Person (Age 52)**: This person shows moderate support across all scales with a slightly higher inclination towards Law and Order. Given the moderate score in Open Foreign Policy which is the most related to the referendum, and balanced views in the other scales, **the person should vote yes**, as their overall views seem to moderately align with the goals of the referendum concerning transparency and regulations in foreign participation.
+
+2. **Person (Age 57)**: With a low score in Open Foreign Policy and higher scores in Law and Order and Restrictive Financial Policy, this individual leans more towards conservative values, preferring stricter regulations and less foreign engagement. Given their resistance to openness in foreign policy which is central to the referendum, **the person should vote no** as the referendum's focus on increased transparency with foreign entities may conflict with their views.
+
+3. **Person (Age 45)**: This person has a high score in Open Foreign Policy, suggesting a strong support for engaging and cooperating internationally, which aligns well with the referendum's focus on foreign investments and transparency. Their lower scores in Law and Order and Restrictive Financial Policy indicate a less conservative approach, which further supports their alignment with the goals of the referendum. **The person should vote yes**, as their views are in line with promoting transparency and international cooperation in business practices.
+
+These recommendations consider each person's individual scores on the scales and how they align with the referendum's goals, providing a tailored advice based on their views.

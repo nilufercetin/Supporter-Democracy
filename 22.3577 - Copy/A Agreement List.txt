@@ -1,0 +1,18 @@
+[0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1,
+1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+
+%81.196
+
+FALSE POSITIVE: 22
+FALSE NEGATIVE: 
+
+KNN Incorrects: 6
+
+REASONS
+No clear decision boundary and again tending to propose a 'yes' vote 
+For some KNN also did not perform well since only the extreme valued individuals have voted 'yes'
+Need to be very low in Cleavage 6

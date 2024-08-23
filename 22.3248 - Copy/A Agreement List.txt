@@ -1,0 +1,18 @@
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 
+1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 
+1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 0]
+
+%81.3
+
+FALSE POSITIVES: 22
+FALSE NEGATIVES: 1
+
+KNN Incorrect: 1 ie. the FN one
+
+REASONS
+Extreme values vote 'yes' only which is ofcourse not understood, bias to give 'yes' on middle grounds of course
+This is maybe because more people tend to assert themselves towards Expanded Welfare State but in reality they hold more conservative views giving 'no'

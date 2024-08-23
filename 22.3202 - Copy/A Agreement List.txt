@@ -1,0 +1,15 @@
+[0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1,
+1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 
+1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 
+0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 
+-DO FIRST FOUR STARTING FROM REGINE SAUTER, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0]
+
+%71.186
+
+
+REASONS
+One of the those that KNN performed pretty bad, there is no clear decision boundary for the two selected axes
+The situation seems a little bit for Extended Environmental Protection vs. Liberal Economy but it is also not fully clear
+Most clear when it is Extended Environmental Protection versus Law and Order but I have no clue why
+Even with Expanded Welfare State the boundary gets swept up 

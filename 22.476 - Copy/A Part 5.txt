@@ -1,0 +1,165 @@
+1. The person is at age 61 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.91 on Liberal Economy. The person scored 3.12 on Law and Order. The person scored 2.2 on Expanded Welfare State. 
+
+
+2. The person is at age 51 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.68 on Liberal Economy. The person scored 4.79 on Law and Order. The person scored 1.8 on Expanded Welfare State. 
+
+
+3. The person is at age 46 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.44 on Liberal Economy. The person scored 1.67 on Law and Order. The person scored 3.53 on Expanded Welfare State. 
+
+
+4. The person is at age 42 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.23 on Liberal Economy. The person scored 4.0 on Law and Order. The person scored 2.67 on Expanded Welfare State. 
+
+
+5. The person is at age 31 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.47 on Liberal Economy. The person scored 4.0 on Law and Order. The person scored 1.6 on Expanded Welfare State. 
+
+
+6. The person is at age 49 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.17 on Liberal Economy. The person scored 1.38 on Law and Order. The person scored 4.9 on Expanded Welfare State. 
+
+
+7. The person is at age 55 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.39 on Liberal Economy. The person scored 4.21 on Law and Order. The person scored 1.5 on Expanded Welfare State. 
+
+
+8. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.79 on Liberal Economy. The person scored 1.54 on Law and Order. The person scored 4.7 on Expanded Welfare State. 
+
+
+9. The person is at age 43 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.63 on Liberal Economy. The person scored 4.62 on Law and Order. The person scored 1.8 on Expanded Welfare State. 
+
+
+10. The person is at age 57 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.4 on Liberal Economy. The person scored 1.38 on Law and Order. The person scored 4.9 on Expanded Welfare State. 
+
+
+11. The person is at age 57 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.44 on Liberal Economy. The person scored 2.88 on Law and Order. The person scored 2.5 on Expanded Welfare State. 
+
+
+12. The person is at age 53 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 2.32 on Liberal Economy. The person scored 3.21 on Law and Order. The person scored 3.37 on Expanded Welfare State. 
+
+
+13. The person is at age 62 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.44 on Liberal Economy. The person scored 2.75 on Law and Order. The person scored 2.33 on Expanded Welfare State. 
+
+
+14. The person is at age 64 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.44 on Liberal Economy. The person scored 2.96 on Law and Order. The person scored 1.6 on Expanded Welfare State. 
+
+
+15. The person is at age 45 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 3.42 on Liberal Economy. The person scored 3.42 on Law and Order. The person scored 2.9 on Expanded Welfare State. 
+
+
+16. The person is at age 39 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.53 on Liberal Economy. The person scored 2.5 on Law and Order. The person scored 2.3 on Expanded Welfare State. 
+
+
+17. The person is at age 42 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.07 on Liberal Economy. The person scored 4.46 on Law and Order. The person scored 2.37 on Expanded Welfare State. 
+
+
+18. The person is at age 66 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.65 on Liberal Economy. The person scored 1.58 on Law and Order. The person scored 4.9 on Expanded Welfare State. 
+
+
+19. The person is at age 63 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 4.02 on Liberal Economy. The person scored 4.04 on Law and Order. The person scored 2.9 on Expanded Welfare State. 
+
+
+20. The person is at age 55 and is not very sure on how to vote on the upcoming referendum which you know the summary of. Can you provide a recommendation on whether the person should vote yes or no based on the measurements that will be given on the scales defined just before as well as their relative importances. Please try to be coherent and as unbiased as possible. Your answer needs to be structured as an explanation based on the measurements of the person and a final sentence as "the person should vote <vote>". Here are the measurements:
+The person scored 1.7 on Liberal Economy. The person scored 1.67 on Law and Order. The person scored 4.9 on Expanded Welfare State. 
+
+
+Here are the voting recommendations for the 20 people based on their measurements in the axes of Liberal Economy, Law and Order, and Expanded Welfare State:
+
+1. **Person at age 61**
+   - **Analysis**: Moderate scores in Liberal Economy and Law and Order with a slightly lower score in Expanded Welfare State suggest a lean towards liberal economic policies.
+   - **Recommendation**: The person should vote no.
+
+2. **Person at age 51**
+   - **Analysis**: High scores in both Liberal Economy and Law and Order with a low score in Expanded Welfare State suggest strong support for market freedom and stricter law enforcement.
+   - **Recommendation**: The person should vote no.
+
+3. **Person at age 46**
+   - **Analysis**: Lower scores in Liberal Economy and Law and Order with a moderate score in Expanded Welfare State suggest a preference for more state intervention in welfare.
+   - **Recommendation**: The person should vote yes.
+
+4. **Person at age 42**
+   - **Analysis**: High scores in Liberal Economy and Law and Order, and a moderate score in Expanded Welfare State indicate a preference for market freedom.
+   - **Recommendation**: The person should vote no.
+
+5. **Person at age 31**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a very low score in Expanded Welfare State indicate strong support for market-driven policies.
+   - **Recommendation**: The person should vote no.
+
+6. **Person at age 49**
+   - **Analysis**: Low scores in Liberal Economy and Law and Order, but a very high score in Expanded Welfare State indicate strong support for expanded state welfare.
+   - **Recommendation**: The person should vote yes.
+
+7. **Person at age 55**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a very low score in Expanded Welfare State indicate a preference for reduced state welfare.
+   - **Recommendation**: The person should vote no.
+
+8. **Person at age 39**
+   - **Analysis**: Very low scores in Liberal Economy and Law and Order, with a high score in Expanded Welfare State suggest strong support for government intervention and welfare.
+   - **Recommendation**: The person should vote yes.
+
+9. **Person at age 43**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a low score in Expanded Welfare State suggest a preference for market freedoms and less state intervention.
+   - **Recommendation**: The person should vote no.
+
+10. **Person at age 57**
+   - **Analysis**: Very low scores in Liberal Economy and Law and Order with a maximum score in Expanded Welfare State suggest strong support for government-led solutions and welfare.
+   - **Recommendation**: The person should vote yes.
+
+11. **Person at age 57 (second entry)**
+   - **Analysis**: Moderate scores in Liberal Economy and Law and Order with a slightly low score in Expanded Welfare State suggest a balanced view but leaning towards market mechanisms.
+   - **Recommendation**: The person should vote no.
+
+12. **Person at age 53**
+   - **Analysis**: Low to moderate scores in Liberal Economy and higher scores in Law and Order and Expanded Welfare State indicate a balanced perspective with a slight preference for welfare.
+   - **Recommendation**: The person should vote yes.
+
+13. **Person at age 62**
+   - **Analysis**: High score in Liberal Economy with moderate scores in Law and Order and Expanded Welfare State indicate a leaning towards market freedoms but with some support for welfare.
+   - **Recommendation**: The person should vote no.
+
+14. **Person at age 64**
+   - **Analysis**: High scores in Liberal Economy and moderate in Law and Order with a low score in Expanded Welfare State suggest a preference for liberal economic policies.
+   - **Recommendation**: The person should vote no.
+
+15. **Person at age 45**
+   - **Analysis**: Moderate scores across all axes with no strong leaning towards either extreme, slightly favoring liberal economic policies.
+   - **Recommendation**: The person should vote no.
+
+16. **Person at age 39 (second entry)**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a lower score in Expanded Welfare State suggest a preference for liberal economic policies.
+   - **Recommendation**: The person should vote no.
+
+17. **Person at age 42 (second entry)**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a lower score in Expanded Welfare State indicate a preference for market freedoms and less state intervention.
+   - **Recommendation**: The person should vote no.
+
+18. **Person at age 66**
+   - **Analysis**: Very low scores in Liberal Economy and Law and Order, with a high score in Expanded Welfare State strongly suggest support for state welfare.
+   - **Recommendation**: The person should vote yes.
+
+19. **Person at age 63**
+   - **Analysis**: High scores in Liberal Economy and Law and Order with a moderate score in Expanded Welfare State
+
+ suggest a balanced view but leaning towards market mechanisms.
+   - **Recommendation**: The person should vote no.
+
+20. **Person at age 55 (second entry)**
+   - **Analysis**: Very low scores in Liberal Economy and Law and Order, with a high score in Expanded Welfare State indicate strong support for expanded state welfare.
+   - **Recommendation**: The person should vote yes.
+
+These recommendations provide a view based on the individuals' alignment with the principles likely affected by the referendum, focusing on their support for or opposition to state interventions versus market freedoms and law enforcement.

@@ -1,0 +1,16 @@
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 
+1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 
+0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+%86.885
+
+FALSE POSITIVE: 16
+FALSE NEGATIVE: 
+
+KNN Incorrect: no incorrect guesses maybe the values to vote yes are a little bit exaggerated
+
+REASONS
+Biased to offer a 'yes' when moderate scores are observed, Law and Order should have increased the chance to support but it is positively correlated with Liberal Economy

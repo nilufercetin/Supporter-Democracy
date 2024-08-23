@@ -1,0 +1,18 @@
+[1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+%93.043
+
+FALSE POSITIVES: 7
+FALSE NEGATIVES: 1
+
+KNN Incorrect: 3
+
+REASONS
+Moderate scores mixed, Liberal Economy conflicting and the reason why it is chosen is unclear it got it wrong for Marie France
+Law and Order grasped correctly in this context (a nice example to provide perspective in report) but in some cases less importance is given to it
+Boundary is a little bit blurry but more people tend to vote yes which agrees with the bias of agent

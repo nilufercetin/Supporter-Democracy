@@ -1,0 +1,17 @@
+[0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, -DO THE LAST THREE AGAIN PRISKAS + RAPHAEL-,
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+%89.744
+
+FALSE POSITIVE: 11
+FALSE NEGATIVE: 1
+
+KNN Incorrect: 7/7 - full agreement, very nice results here
+
+REASONS
+Hans Peter Portmann and Martin Baumle very close scores in both axes, if the importance of one axis over the other was perceived better by the agent they would not have been wrong
+The values of Martina Bircher got read wrong?

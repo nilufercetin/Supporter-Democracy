@@ -1,0 +1,20 @@
+[1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1,
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0,
+1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0] 
+
+%82.645
+
+FALSE POSITIVES: 12
+FALSE NEGATIVES: 9
+
+KNN Incorrect: 5
+
+REASONS
+Restrictive Financial Policy as an axis does not provide much information
+Sometimes especially for moderate values the assignment of 'yes' or 'no' votes are random
+Sometimes not high scores are considered high, maybe there is less importance given to these like they are at the end of the prompt
+Martina Bircher: said strong Environmental Scores combined with lower Liberal scores but it is the exact opposite
+In three axes, the score on the third axis does not get read very carefully

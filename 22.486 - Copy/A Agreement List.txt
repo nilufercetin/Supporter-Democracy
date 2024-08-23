@@ -1,0 +1,21 @@
+[0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0,
+1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 
+-DO THE LAST 4 AS PART 7-]
+
+%80
+
+FALSE POSITIVE: 24
+FALSE NEGATIVE: 
+
+KNN incorrect: performance was 100%
+
+REASONS
+Cannot grasp moderate views again biased to offer 'yes', also gets conflicted by correlation between Liberal Economy and Law and Order
+Even when Liberal Economy is high thinks that market regulations might benefit transparency, maybe the agent cannot capture the exact orientation with Liberal Economy
+(ie. Liberal Economy people support market measures to some extent?), but this is not always the case, ie. not coherent or suggests 'no' only for very very Liberal People
+Liberal Economy vs. Law and Order: only people who are very low on both voted 'Yes', agent thinks only people who are both very high on these should vote 'No'
+Agent might be valuing freedoms too much
